@@ -1,0 +1,606 @@
+companyName,website,employeeRank,employeeName,employeeTitle,seniority,function,profileUrl,companyLinkedIn,sourceType,sourceUrl,confidence
+Destination Canada,http://www.destinationcanada.com,1,Destination Development,,,,,http://www.linkedin.com/company/destination-canada,name_block,https://www.destinationcanada.com/en-ca,medium
+Destination Canada,http://www.destinationcanada.com,2,About Us,,,,,http://www.linkedin.com/company/destination-canada,name_block,https://www.destinationcanada.com/en-ca,medium
+Destination Canada,http://www.destinationcanada.com,3,Our Markets,,,,,http://www.linkedin.com/company/destination-canada,name_block,https://www.destinationcanada.com/en-ca,medium
+Destination Canada,http://www.destinationcanada.com,4,Our Team,,,,,http://www.linkedin.com/company/destination-canada,name_block,https://www.destinationcanada.com/en-ca,medium
+Destination Canada,http://www.destinationcanada.com,5,Collaborate With Us,,,,,http://www.linkedin.com/company/destination-canada,name_block,https://www.destinationcanada.com/en-ca,medium
+Launchpad Technologies Inc.,http://www.golaunchpad.io,1,Experience Digital Transformation Excellence,,,,,http://www.linkedin.com/company/golaunchpad,name_block,https://www.golaunchpad.io/,medium
+Launchpad Technologies Inc.,http://www.golaunchpad.io,2,Managed Services,,,,,http://www.linkedin.com/company/golaunchpad,name_block,https://www.golaunchpad.io/,medium
+Launchpad Technologies Inc.,http://www.golaunchpad.io,3,People First Philosophy,,,,,http://www.linkedin.com/company/golaunchpad,name_block,https://www.golaunchpad.io/,medium
+Launchpad Technologies Inc.,http://www.golaunchpad.io,4,Hone Your Craft,,,,,http://www.linkedin.com/company/golaunchpad,name_block,https://www.golaunchpad.io/,medium
+Launchpad Technologies Inc.,http://www.golaunchpad.io,5,Meet The Leadership Team.,,,,,http://www.linkedin.com/company/golaunchpad,name_block,https://www.golaunchpad.io/,medium
+Launchpad Technologies Inc.,http://www.golaunchpad.io,6,Bruce Qi,Founder,C-level/Founder,,,http://www.linkedin.com/company/golaunchpad,name_block,https://www.golaunchpad.io/,medium
+Launchpad Technologies Inc.,http://www.golaunchpad.io,7,Gord Boisvert,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/golaunchpad,name_block,https://www.golaunchpad.io/,medium
+Launchpad Technologies Inc.,http://www.golaunchpad.io,8,Bruceqi,,,,https://www.linkedin.com/in/bruceqi/,http://www.linkedin.com/company/golaunchpad,linkedin_hint,https://www.golaunchpad.io/,low
+Launchpad Technologies Inc.,http://www.golaunchpad.io,9,Gord Boisvert A254652,,,,https://www.linkedin.com/in/gord-boisvert-a254652/,http://www.linkedin.com/company/golaunchpad,linkedin_hint,https://www.golaunchpad.io/,low
+Launchpad Technologies Inc.,http://www.golaunchpad.io,10,Jllavin,,,,https://www.linkedin.com/in/jllavin/,http://www.linkedin.com/company/golaunchpad,linkedin_hint,https://www.golaunchpad.io/,low
+Herschel Supply Company,http://www.herschel.com,1,Guest Checkout,,,,,http://www.linkedin.com/company/herschelsupply,name_block,https://herschel.com/,medium
+Herschel Supply Company,http://www.herschel.com,2,Gift With Purchase,,,,,http://www.linkedin.com/company/herschelsupply,name_block,https://herschel.com/,medium
+Herschel Supply Company,http://www.herschel.com,3,Email When In Stock,,,,,http://www.linkedin.com/company/herschelsupply,name_block,https://herschel.com/,medium
+Herschel Supply Company,http://www.herschel.com,4,Hip Packs,,,,,http://www.linkedin.com/company/herschelsupply,name_block,https://herschel.com/,medium
+Herschel Supply Company,http://www.herschel.com,5,Keep It Light,,,,,http://www.linkedin.com/company/herschelsupply,name_block,https://herschel.com/,medium
+Herschel Supply Company,http://www.herschel.com,6,North America,,,,,http://www.linkedin.com/company/herschelsupply,name_block,https://herschel.com/,medium
+Herschel Supply Company,http://www.herschel.com,7,Our Origin Story,,,,,http://www.linkedin.com/company/herschelsupply,name_block,https://herschel.com/,medium
+Unbounce,http://www.unbounce.com,1,Smart Traffic,,,,,http://www.linkedin.com/company/unbounce,name_block,https://unbounce.com/,medium
+Unbounce,http://www.unbounce.com,2,AI Copywriting,,,,,http://www.linkedin.com/company/unbounce,name_block,https://unbounce.com/,medium
+Unbounce,http://www.unbounce.com,3,Insightly CRM,,,,,http://www.linkedin.com/company/unbounce,name_block,https://unbounce.com/,medium
+Dapper Labs,http://www.dapperlabs.com,1,JOIN US,,,,,http://www.linkedin.com/company/dapper-labs,name_block,https://www.dapperlabs.com/,medium
+Dapper Labs,http://www.dapperlabs.com,2,Venture Beat,,,,,http://www.linkedin.com/company/dapper-labs,name_block,https://www.dapperlabs.com/,medium
+SmartSweets,http://www.smartsweets.com,1,SmartSweets US,,,,,http://www.linkedin.com/company/smartsweets,name_block,https://smartsweets.com/,medium
+SmartSweets,http://www.smartsweets.com,2,No Artificial Sweeteners,,,,,http://www.linkedin.com/company/smartsweets,name_block,https://smartsweets.com/,medium
+SmartSweets,http://www.smartsweets.com,3,Elizabeth O.,,,,,http://www.linkedin.com/company/smartsweets,name_block,https://smartsweets.com/,medium
+SmartSweets,http://www.smartsweets.com,4,Melissa H.,,,,,http://www.linkedin.com/company/smartsweets,name_block,https://smartsweets.com/,medium
+SmartSweets,http://www.smartsweets.com,5,Rachel M.,,,,,http://www.linkedin.com/company/smartsweets,name_block,https://smartsweets.com/,medium
+SmartSweets,http://www.smartsweets.com,6,Donald M.,,,,,http://www.linkedin.com/company/smartsweets,name_block,https://smartsweets.com/,medium
+SmartSweets,http://www.smartsweets.com,7,Peach Rings,,,,,http://www.linkedin.com/company/smartsweets,name_block,https://smartsweets.com/,medium
+SmartSweets,http://www.smartsweets.com,8,Tropical Sours,,,,,http://www.linkedin.com/company/smartsweets,name_block,https://smartsweets.com/,medium
+SmartSweets,http://www.smartsweets.com,9,Sour Gummy Worms,,,,,http://www.linkedin.com/company/smartsweets,name_block,https://smartsweets.com/,medium
+SmartSweets,http://www.smartsweets.com,10,Gummy Worms,,,,,http://www.linkedin.com/company/smartsweets,name_block,https://smartsweets.com/,medium
+Cymax Group Technologies,http://www.cymaxgroup.com,1,What We Do,,,,,http://www.linkedin.com/company/cymaxgroup,name_block,https://www.cymaxgroup.com/,medium
+Cymax Group Technologies,http://www.cymaxgroup.com,2,Our Products,,,,,http://www.linkedin.com/company/cymaxgroup,name_block,https://www.cymaxgroup.com/,medium
+Cymax Group Technologies,http://www.cymaxgroup.com,3,Our Marketplaces,,,,,http://www.linkedin.com/company/cymaxgroup,name_block,https://www.cymaxgroup.com/,medium
+Cymax Group Technologies,http://www.cymaxgroup.com,4,CYMAX GROUP TECHNOLOGIES,,,,,http://www.linkedin.com/company/cymaxgroup,name_block,https://www.cymaxgroup.com/,medium
+Cymax Group Technologies,http://www.cymaxgroup.com,5,Meet Our Teams,,,,,http://www.linkedin.com/company/cymaxgroup,name_block,https://www.cymaxgroup.com/,medium
+Cymax Group Technologies,http://www.cymaxgroup.com,6,Markus Frind,Chief Executive Officer,C-level/Founder,,,http://www.linkedin.com/company/cymaxgroup,name_block,https://www.cymaxgroup.com/,medium
+Cymax Group Technologies,http://www.cymaxgroup.com,7,Kim Kaplan,Vice President,C-level/Founder,,,http://www.linkedin.com/company/cymaxgroup,name_block,https://www.cymaxgroup.com/,medium
+Cymax Group Technologies,http://www.cymaxgroup.com,8,Chris Carroll,Vice President,C-level/Founder,,,http://www.linkedin.com/company/cymaxgroup,name_block,https://www.cymaxgroup.com/,medium
+Cymax Group Technologies,http://www.cymaxgroup.com,9,Kaly Yeske,Vice President,C-level/Founder,,,http://www.linkedin.com/company/cymaxgroup,name_block,https://www.cymaxgroup.com/,medium
+Cymax Group Technologies,http://www.cymaxgroup.com,10,Our Leadership Team,,,,,http://www.linkedin.com/company/cymaxgroup,name_block,https://www.cymaxgroup.com/,medium
+MatchBox Consulting Group,http://www.matchboxhr.com,1,matchboxhr,,,,https://matchboxhr.com/author/matchboxhr/,http://www.linkedin.com/company/matchbox-recruitment,jsonld,https://matchboxhr.com/,high
+MatchBox Consulting Group,http://www.matchboxhr.com,2,The MatchBox Difference,,,,,http://www.linkedin.com/company/matchbox-recruitment,name_block,https://matchboxhr.com/,medium
+MatchBox Consulting Group,http://www.matchboxhr.com,3,Personalized Experience,,,,,http://www.linkedin.com/company/matchbox-recruitment,name_block,https://matchboxhr.com/,medium
+MatchBox Consulting Group,http://www.matchboxhr.com,4,Forward Thinking,,,,,http://www.linkedin.com/company/matchbox-recruitment,name_block,https://matchboxhr.com/,medium
+MatchBox Consulting Group,http://www.matchboxhr.com,5,Top Talent,,,,,http://www.linkedin.com/company/matchbox-recruitment,name_block,https://matchboxhr.com/,medium
+MatchBox Consulting Group,http://www.matchboxhr.com,6,Our Expertise,,,,,http://www.linkedin.com/company/matchbox-recruitment,name_block,https://matchboxhr.com/,medium
+MatchBox Consulting Group,http://www.matchboxhr.com,7,Success Stories,,,,,http://www.linkedin.com/company/matchbox-recruitment,name_block,https://matchboxhr.com/,medium
+MatchBox Consulting Group,http://www.matchboxhr.com,8,Job Seekers,,,,,http://www.linkedin.com/company/matchbox-recruitment,name_block,https://matchboxhr.com/,medium
+MatchBox Consulting Group,http://www.matchboxhr.com,9,Must Haves,,,,,http://www.linkedin.com/company/matchbox-recruitment,name_block,https://matchboxhr.com/,medium
+MatchBox Consulting Group,http://www.matchboxhr.com,10,About MatchBox,,,,,http://www.linkedin.com/company/matchbox-recruitment,name_block,https://matchboxhr.com/,medium
+CyberClan,http://www.cyberclan.com,1,Enterprise Security. Human Response.,,,,,http://www.linkedin.com/company/cyberclantm,name_block,https://cyberclan.com/,medium
+CyberClan,http://www.cyberclan.com,2,About Us,,,,,http://www.linkedin.com/company/cyberclantm,name_block,https://cyberclan.com/,medium
+CyberClan,http://www.cyberclan.com,3,Risk Management Services,,,,,http://www.linkedin.com/company/cyberclantm,name_block,https://cyberclan.com/,medium
+CyberClan,http://www.cyberclan.com,4,Incident Response Services,,,,,http://www.linkedin.com/company/cyberclantm,name_block,https://cyberclan.com/,medium
+CyberClan,http://www.cyberclan.com,5,Post Breach Remediation,,,,,http://www.linkedin.com/company/cyberclantm,name_block,https://cyberclan.com/,medium
+CyberClan,http://www.cyberclan.com,6,Managed Security Services,,,,,http://www.linkedin.com/company/cyberclantm,name_block,https://cyberclan.com/,medium
+CyberClan,http://www.cyberclan.com,7,United States,,,,,http://www.linkedin.com/company/cyberclantm,name_block,https://cyberclan.com/,medium
+CyberClan,http://www.cyberclan.com,8,United Kingdom,,,,,http://www.linkedin.com/company/cyberclantm,name_block,https://cyberclan.com/,medium
+CyberClan,http://www.cyberclan.com,9,Sugandha Sood,Vice President,C-level/Founder,,,http://www.linkedin.com/company/cyberclantm,name_block,https://cyberclan.com/,medium
+CyberClan,http://www.cyberclan.com,10,Sugandha Sood 11b1956,,,,https://www.linkedin.com/in/sugandha-sood-11b1956/,http://www.linkedin.com/company/cyberclantm,linkedin_hint,https://cyberclan.com/,low
+Taylor Ryan Executive Search Partners,http://www.taylorryan.com,1,About Our Recruitment Agency,Partner,IC/Other,,,http://www.linkedin.com/company/taylor-ryan-executive-search-partners,name_block,https://taylorryan.com/,medium
+Taylor Ryan Executive Search Partners,http://www.taylorryan.com,2,Our Industry Sectors,,,,,http://www.linkedin.com/company/taylor-ryan-executive-search-partners,name_block,https://taylorryan.com/,medium
+Taylor Ryan Executive Search Partners,http://www.taylorryan.com,3,Contact Us,,,,,http://www.linkedin.com/company/taylor-ryan-executive-search-partners,name_block,https://taylorryan.com/,medium
+Taylor Ryan Executive Search Partners,http://www.taylorryan.com,4,About Us,,,,,http://www.linkedin.com/company/taylor-ryan-executive-search-partners,name_block,https://taylorryan.com/,medium
+Taylor Ryan Executive Search Partners,http://www.taylorryan.com,5,Our Mission,partner,IC/Other,,,http://www.linkedin.com/company/taylor-ryan-executive-search-partners,name_block,https://taylorryan.com/,medium
+Taylor Ryan Executive Search Partners,http://www.taylorryan.com,6,Our Values,,,,,http://www.linkedin.com/company/taylor-ryan-executive-search-partners,name_block,https://taylorryan.com/,medium
+Taylor Ryan Executive Search Partners,http://www.taylorryan.com,7,Industry Expertise,,,,,http://www.linkedin.com/company/taylor-ryan-executive-search-partners,name_block,https://taylorryan.com/,medium
+Taylor Ryan Executive Search Partners,http://www.taylorryan.com,8,Office Locations,,,,,http://www.linkedin.com/company/taylor-ryan-executive-search-partners,name_block,https://taylorryan.com/,medium
+Taylor Ryan Executive Search Partners,http://www.taylorryan.com,9,Our Team,,,,,http://www.linkedin.com/company/taylor-ryan-executive-search-partners,name_block,https://taylorryan.com/,medium
+Taylor Ryan Executive Search Partners,http://www.taylorryan.com,10,Vancouver Head Office,,,,,http://www.linkedin.com/company/taylor-ryan-executive-search-partners,name_block,https://taylorryan.com/,medium
+PILOT CAREER CENTER -- the source for PILOT CAREERS,http://www.pilotcareercenter.com,,,,,,,http://www.linkedin.com/company/pilot-career-center,none_found,http://www.pilotcareercenter.com,low
+WORKFORCE - Staffing Solutions,http://www.workforce.ca,1,WORKFORCE Staffing Solutions,manager,Manager/Lead,,,http://www.linkedin.com/company/workforce-temporary-services,name_block,https://www.workforce.ca/,medium
+WORKFORCE - Staffing Solutions,http://www.workforce.ca,2,Get Started Today,,,,,http://www.linkedin.com/company/workforce-temporary-services,name_block,https://www.workforce.ca/,medium
+David Suzuki Foundation,http://www.davidsuzuki.org,1,Featured Projects,,,,,http://www.linkedin.com/company/david-suzuki-foundation,name_block,https://www.davidsuzuki.org/,medium
+David Suzuki Foundation,http://www.davidsuzuki.org,2,Act Online,,,,,http://www.linkedin.com/company/david-suzuki-foundation,name_block,https://www.davidsuzuki.org/,medium
+David Suzuki Foundation,http://www.davidsuzuki.org,3,Science Matters,,,,,http://www.linkedin.com/company/david-suzuki-foundation,name_block,https://www.davidsuzuki.org/,medium
+David Suzuki Foundation,http://www.davidsuzuki.org,4,Guiding Policies,,,,,http://www.linkedin.com/company/david-suzuki-foundation,name_block,https://www.davidsuzuki.org/,medium
+David Suzuki Foundation,http://www.davidsuzuki.org,5,Ethical Gift Acceptance Policy,,,,,http://www.linkedin.com/company/david-suzuki-foundation,name_block,https://www.davidsuzuki.org/,medium
+David Suzuki Foundation,http://www.davidsuzuki.org,6,Indigenous Peoples Policy,,,,,http://www.linkedin.com/company/david-suzuki-foundation,name_block,https://www.davidsuzuki.org/,medium
+David Suzuki Foundation,http://www.davidsuzuki.org,7,Science Integrity Protocol,,,,,http://www.linkedin.com/company/david-suzuki-foundation,name_block,https://www.davidsuzuki.org/,medium
+Semios,http://www.semios.com,1,Stone Fruit,,,,,http://www.linkedin.com/company/semiosbio-technologies-inc,name_block,https://semios.com/,medium
+Semios,http://www.semios.com,2,Climate Monitoring,,,,,http://www.linkedin.com/company/semiosbio-technologies-inc,name_block,https://semios.com/,medium
+Semios,http://www.semios.com,3,Disease Management,,,,,http://www.linkedin.com/company/semiosbio-technologies-inc,name_block,https://semios.com/,medium
+Semios,http://www.semios.com,4,Frost Management,,,,,http://www.linkedin.com/company/semiosbio-technologies-inc,name_block,https://semios.com/,medium
+Semios,http://www.semios.com,5,Irrigation Management,,,,,http://www.linkedin.com/company/semiosbio-technologies-inc,name_block,https://semios.com/,medium
+Semios,http://www.semios.com,6,Plant Stress Monitoring,,,,,http://www.linkedin.com/company/semiosbio-technologies-inc,name_block,https://semios.com/,medium
+Semios,http://www.semios.com,7,Reporting Tools,,,,,http://www.linkedin.com/company/semiosbio-technologies-inc,name_block,https://semios.com/,medium
+Semios,http://www.semios.com,8,Field Services,,,,,http://www.linkedin.com/company/semiosbio-technologies-inc,name_block,https://semios.com/,medium
+Semios,http://www.semios.com,9,Recent Posts,,,,,http://www.linkedin.com/company/semiosbio-technologies-inc,name_block,https://semios.com/,medium
+Semios,http://www.semios.com,10,About Us,,,,,http://www.linkedin.com/company/semiosbio-technologies-inc,name_block,https://semios.com/,medium
+MacDonald Search Group,http://www.macdonaldsearchgroup.com,1,Get Started Now...,,,,,http://www.linkedin.com/company/macdonald-search-group,name_block,https://www.macdonaldsearchgroup.com/,medium
+MacDonald Search Group,http://www.macdonaldsearchgroup.com,2,For Employers,,,,,http://www.linkedin.com/company/macdonald-search-group,name_block,https://www.macdonaldsearchgroup.com/,medium
+MacDonald Search Group,http://www.macdonaldsearchgroup.com,3,For Candidates,,,,,http://www.linkedin.com/company/macdonald-search-group,name_block,https://www.macdonaldsearchgroup.com/,medium
+MacDonald Search Group,http://www.macdonaldsearchgroup.com,4,About Us,,,,,http://www.linkedin.com/company/macdonald-search-group,name_block,https://www.macdonaldsearchgroup.com/,medium
+MacDonald Search Group,http://www.macdonaldsearchgroup.com,5,OFFICE LOCATIONS,,,,,http://www.linkedin.com/company/macdonald-search-group,name_block,https://www.macdonaldsearchgroup.com/,medium
+MacDonald Search Group,http://www.macdonaldsearchgroup.com,6,About MacDonald Search Group,,,,,http://www.linkedin.com/company/macdonald-search-group,name_block,https://www.macdonaldsearchgroup.com/,medium
+MacDonald Search Group,http://www.macdonaldsearchgroup.com,7,What We Value,,,,,http://www.linkedin.com/company/macdonald-search-group,name_block,https://www.macdonaldsearchgroup.com/,medium
+MacDonald Search Group,http://www.macdonaldsearchgroup.com,8,YOU COME FIRST.,,,,,http://www.linkedin.com/company/macdonald-search-group,name_block,https://www.macdonaldsearchgroup.com/,medium
+MacDonald Search Group,http://www.macdonaldsearchgroup.com,9,YOUR GOALS MATTER MOST,,,,,http://www.linkedin.com/company/macdonald-search-group,name_block,https://www.macdonaldsearchgroup.com/,medium
+MacDonald Search Group,http://www.macdonaldsearchgroup.com,10,Our Story,Partner,IC/Other,,,http://www.linkedin.com/company/macdonald-search-group,name_block,https://www.macdonaldsearchgroup.com/,medium
+AlgaeCal Inc.,http://www.algaecal.com,1,Increase Bone Density. Guaranteed.,,,,,http://www.linkedin.com/company/algaecal,name_block,https://www.algaecal.com/en-ca,medium
+AlgaeCal Inc.,http://www.algaecal.com,2,Featured Blogs,,,,,http://www.linkedin.com/company/algaecal,name_block,https://www.algaecal.com/en-ca,medium
+AlgaeCal Inc.,http://www.algaecal.com,3,Dean Neuls,Founder,C-level/Founder,,,http://www.linkedin.com/company/algaecal,name_block,https://www.algaecal.com/en-ca,medium
+AlgaeCal Inc.,http://www.algaecal.com,4,Kyle Lim,President,C-level/Founder,,,http://www.linkedin.com/company/algaecal,name_block,https://www.algaecal.com/en-ca,medium
+AlgaeCal Inc.,http://www.algaecal.com,5,Andrew Pangilinan,Chief Strategy Officer,C-level/Founder,,,http://www.linkedin.com/company/algaecal,name_block,https://www.algaecal.com/en-ca,medium
+AlgaeCal Inc.,http://www.algaecal.com,6,The AlgaeCal Community.,,,,,http://www.linkedin.com/company/algaecal,name_block,https://www.algaecal.com/en-ca,medium
+Clarius Mobile Health,http://www.clarius.com,1,Clinical Specialties,Vp,Director/VP,,,http://www.linkedin.com/company/clarius-mobile-heath-corp-,name_block,https://clarius.com/,medium
+Clarius Mobile Health,http://www.clarius.com,2,Educational Resources,,,,,http://www.linkedin.com/company/clarius-mobile-heath-corp-,name_block,https://clarius.com/,medium
+Clarius Mobile Health,http://www.clarius.com,3,Explore More,,,,,http://www.linkedin.com/company/clarius-mobile-heath-corp-,name_block,https://clarius.com/,medium
+Clarius Mobile Health,http://www.clarius.com,4,Management Team,,,,,http://www.linkedin.com/company/clarius-mobile-heath-corp-,name_block,https://clarius.com/,medium
+Clarius Mobile Health,http://www.clarius.com,5,Laurentpelissier,,,,https://www.linkedin.com/in/laurentpelissier/,http://www.linkedin.com/company/clarius-mobile-heath-corp-,linkedin_hint,https://clarius.com/,low
+Clarius Mobile Health,http://www.clarius.com,6,Lucy Lim Cpa Ca 1a904026,,,,https://www.linkedin.com/in/lucy-lim-cpa-ca-1a904026/,http://www.linkedin.com/company/clarius-mobile-heath-corp-,linkedin_hint,https://clarius.com/,low
+Clarius Mobile Health,http://www.clarius.com,7,Krisdickie,,,,https://www.linkedin.com/in/krisdickie/,http://www.linkedin.com/company/clarius-mobile-heath-corp-,linkedin_hint,https://clarius.com/,low
+Clarius Mobile Health,http://www.clarius.com,8,Jeffschoenfeld,,,,https://www.linkedin.com/in/jeffschoenfeld/,http://www.linkedin.com/company/clarius-mobile-heath-corp-,linkedin_hint,https://clarius.com/,low
+Clarius Mobile Health,http://www.clarius.com,9,Julian Ho 506bb927,,,,https://www.linkedin.com/in/julian-ho-506bb927/,http://www.linkedin.com/company/clarius-mobile-heath-corp-,linkedin_hint,https://clarius.com/,low
+Clarius Mobile Health,http://www.clarius.com,10,Sarah Leverett,,,,https://www.linkedin.com/in/sarah-leverett/,http://www.linkedin.com/company/clarius-mobile-heath-corp-,linkedin_hint,https://clarius.com/,low
+Sanctuary AI,http://www.sanctuary.ai,,,,,,,http://www.linkedin.com/company/sanctuaryai,none_found,http://www.sanctuary.ai,low
+Affinity,http://www.affinity-group.ca,1,Success Starts Here.,partner,IC/Other,,,http://www.linkedin.com/company/affinity-staffing,name_block,https://www.affinity-group.ca/,medium
+Affinity,http://www.affinity-group.ca,2,Talent-First Approach,,,,,http://www.linkedin.com/company/affinity-staffing,name_block,https://www.affinity-group.ca/,medium
+Affinity,http://www.affinity-group.ca,3,AffinityEARN Program,partner,IC/Other,,,http://www.linkedin.com/company/affinity-staffing,name_block,https://www.affinity-group.ca/,medium
+Affinity,http://www.affinity-group.ca,4,Coast-to-Coast Reach,,,,,http://www.linkedin.com/company/affinity-staffing,name_block,https://www.affinity-group.ca/,medium
+Affinity,http://www.affinity-group.ca,5,Empowering Communities Through Connection.,partner,IC/Other,,,http://www.linkedin.com/company/affinity-staffing,name_block,https://www.affinity-group.ca/,medium
+Affinity,http://www.affinity-group.ca,6,About Us,partner,IC/Other,,,http://www.linkedin.com/company/affinity-staffing,name_block,https://www.affinity-group.ca/,medium
+Affinity,http://www.affinity-group.ca,7,Job Seekers,,,,,http://www.linkedin.com/company/affinity-staffing,name_block,https://www.affinity-group.ca/,medium
+Affinity,http://www.affinity-group.ca,8,Join Our Team,,,,,http://www.linkedin.com/company/affinity-staffing,name_block,https://www.affinity-group.ca/,medium
+Klue,http://www.klue.com,1,Compete Agent,,,,,http://www.linkedin.com/company/klue,name_block,https://klue.com/,medium
+Klue,http://www.klue.com,2,Competitive Intelligence,,,,,http://www.linkedin.com/company/klue,name_block,https://klue.com/,medium
+Klue,http://www.klue.com,3,Follow Us On,,,,,http://www.linkedin.com/company/klue,name_block,https://klue.com/,medium
+Klue,http://www.klue.com,4,Access Resource,,,,,http://www.linkedin.com/company/klue,name_block,https://klue.com/,medium
+Klue,http://www.klue.com,5,Our Awards,,,,,http://www.linkedin.com/company/klue,name_block,https://klue.com/,medium
+Klue,http://www.klue.com,6,Our Founders,Founder,C-level/Founder,,,http://www.linkedin.com/company/klue,name_block,https://klue.com/,medium
+Klue,http://www.klue.com,7,Jason Smith,CEO,C-level/Founder,,,http://www.linkedin.com/company/klue,name_block,https://klue.com/,medium
+Klue,http://www.klue.com,8,Sarathy Naicker,Co-founder,C-level/Founder,,,http://www.linkedin.com/company/klue,name_block,https://klue.com/,medium
+Klue,http://www.klue.com,9,Ryan Sorley,Co-founder,C-level/Founder,,,http://www.linkedin.com/company/klue,name_block,https://klue.com/,medium
+Klue,http://www.klue.com,10,Adam Houghton,,,,,http://www.linkedin.com/company/klue,name_block,https://klue.com/,medium
+Destination Vancouver,http://www.destinationvancouver.com,1,Explore Vancouver,,,,,http://www.linkedin.com/company/destination-vancouver,name_block,https://www.destinationvancouver.com/,medium
+Destination Vancouver,http://www.destinationvancouver.com,2,Vancouver Concerts,,,,,http://www.linkedin.com/company/destination-vancouver,name_block,https://www.destinationvancouver.com/,medium
+Destination Vancouver,http://www.destinationvancouver.com,3,Stanley Park Vancouver,,,,,http://www.linkedin.com/company/destination-vancouver,name_block,https://www.destinationvancouver.com/,medium
+Destination Vancouver,http://www.destinationvancouver.com,4,Vancouver Hiking,,,,,http://www.linkedin.com/company/destination-vancouver,name_block,https://www.destinationvancouver.com/,medium
+Destination Vancouver,http://www.destinationvancouver.com,5,Vancouver Performing Arts,,,,,http://www.linkedin.com/company/destination-vancouver,name_block,https://www.destinationvancouver.com/,medium
+Destination Vancouver,http://www.destinationvancouver.com,6,Best Vancouver Beaches,,,,,http://www.linkedin.com/company/destination-vancouver,name_block,https://www.destinationvancouver.com/,medium
+Destination Vancouver,http://www.destinationvancouver.com,7,About Us,,,,,http://www.linkedin.com/company/destination-vancouver,name_block,https://www.destinationvancouver.com/,medium
+Destination Vancouver,http://www.destinationvancouver.com,8,Our Strategic Investments,,,,,http://www.linkedin.com/company/destination-vancouver,name_block,https://www.destinationvancouver.com/,medium
+Chartered Professional Accountants of British Columbia,http://www.bccpa.ca,1,Quick Links,,,,,http://www.linkedin.com/company/cpabritishcolumbia,name_block,http://www.bccpa.ca/,medium
+Chartered Professional Accountants of British Columbia,http://www.bccpa.ca,2,CPA Profession News,,,,,http://www.linkedin.com/company/cpabritishcolumbia,name_block,http://www.bccpa.ca/,medium
+Chartered Professional Accountants of British Columbia,http://www.bccpa.ca,3,Leah Giesbrecht,,,,,http://www.linkedin.com/company/cpabritishcolumbia,name_block,http://www.bccpa.ca/,medium
+Chartered Professional Accountants of British Columbia,http://www.bccpa.ca,4,Randy Johnston,,,,,http://www.linkedin.com/company/cpabritishcolumbia,name_block,http://www.bccpa.ca/,medium
+Chartered Professional Accountants of British Columbia,http://www.bccpa.ca,5,Jack Blackwell,,,,,http://www.linkedin.com/company/cpabritishcolumbia,name_block,http://www.bccpa.ca/,medium
+Chartered Professional Accountants of British Columbia,http://www.bccpa.ca,6,Candy M. Davis,,,,,http://www.linkedin.com/company/cpabritishcolumbia,name_block,http://www.bccpa.ca/,medium
+Chartered Professional Accountants of British Columbia,http://www.bccpa.ca,7,CPA Events,,,,,http://www.linkedin.com/company/cpabritishcolumbia,name_block,http://www.bccpa.ca/,medium
+Chartered Professional Accountants of British Columbia,http://www.bccpa.ca,8,Upcoming Events,,,,,http://www.linkedin.com/company/cpabritishcolumbia,name_block,http://www.bccpa.ca/,medium
+Chartered Professional Accountants of British Columbia,http://www.bccpa.ca,9,Hot Topics,,,,,http://www.linkedin.com/company/cpabritishcolumbia,name_block,http://www.bccpa.ca/,medium
+STRIVE Recruitment Inc.,http://www.striverecruitment.ca,1,Featured On,,,,,http://www.linkedin.com/company/strive-recruitment-inc-,name_block,https://striverecruitment.ca/,medium
+STRIVE Recruitment Inc.,http://www.striverecruitment.ca,2,Hear From Our Clients,,,,,http://www.linkedin.com/company/strive-recruitment-inc-,name_block,https://striverecruitment.ca/,medium
+STRIVE Recruitment Inc.,http://www.striverecruitment.ca,3,Recruitment Services,,,,,http://www.linkedin.com/company/strive-recruitment-inc-,name_block,https://striverecruitment.ca/,medium
+STRIVE Recruitment Inc.,http://www.striverecruitment.ca,4,Permanent Recruitment,,,,,http://www.linkedin.com/company/strive-recruitment-inc-,name_block,https://striverecruitment.ca/,medium
+STRIVE Recruitment Inc.,http://www.striverecruitment.ca,5,Executive Recruitment,lead your business,Manager/Lead,,,http://www.linkedin.com/company/strive-recruitment-inc-,name_block,https://striverecruitment.ca/,medium
+STRIVE Recruitment Inc.,http://www.striverecruitment.ca,6,Temporary Recruitment,,,,,http://www.linkedin.com/company/strive-recruitment-inc-,name_block,https://striverecruitment.ca/,medium
+STRIVE Recruitment Inc.,http://www.striverecruitment.ca,7,Payroll Services,,,,,http://www.linkedin.com/company/strive-recruitment-inc-,name_block,https://striverecruitment.ca/,medium
+STRIVE Recruitment Inc.,http://www.striverecruitment.ca,8,Corporate Administration,,,,,http://www.linkedin.com/company/strive-recruitment-inc-,name_block,https://striverecruitment.ca/,medium
+STRIVE Recruitment Inc.,http://www.striverecruitment.ca,9,STRIVE Difference,,,,,http://www.linkedin.com/company/strive-recruitment-inc-,name_block,https://striverecruitment.ca/,medium
+STRIVE Recruitment Inc.,http://www.striverecruitment.ca,10,Dedicated Account Manager,Manager,Manager/Lead,,,http://www.linkedin.com/company/strive-recruitment-inc-,name_block,https://striverecruitment.ca/,medium
+Destination British Columbia,http://www.destinationbc.ca,1,Destination Management,,,,,http://www.linkedin.com/company/destinationbritishcolumbia,name_block,https://www.destinationbc.ca/,medium
+Destination British Columbia,http://www.destinationbc.ca,2,Funding Sources,,,,,http://www.linkedin.com/company/destinationbritishcolumbia,name_block,https://www.destinationbc.ca/,medium
+Destination British Columbia,http://www.destinationbc.ca,3,Industry Performance,,,,,http://www.linkedin.com/company/destinationbritishcolumbia,name_block,https://www.destinationbc.ca/,medium
+Destination British Columbia,http://www.destinationbc.ca,4,Regional Research,,,,,http://www.linkedin.com/company/destinationbritishcolumbia,name_block,https://www.destinationbc.ca/,medium
+Destination British Columbia,http://www.destinationbc.ca,5,Market Research,,,,,http://www.linkedin.com/company/destinationbritishcolumbia,name_block,https://www.destinationbc.ca/,medium
+Destination British Columbia,http://www.destinationbc.ca,6,Activity Research,,,,,http://www.linkedin.com/company/destinationbritishcolumbia,name_block,https://www.destinationbc.ca/,medium
+Destination British Columbia,http://www.destinationbc.ca,7,Destination BC,,,,,http://www.linkedin.com/company/destinationbritishcolumbia,name_block,https://www.destinationbc.ca/,medium
+Destination British Columbia,http://www.destinationbc.ca,8,Official Websites,,,,,http://www.linkedin.com/company/destinationbritishcolumbia,name_block,https://www.destinationbc.ca/,medium
+Destination British Columbia,http://www.destinationbc.ca,9,About Destination BC,,,,,http://www.linkedin.com/company/destinationbritishcolumbia,name_block,https://www.destinationbc.ca/,medium
+Destination British Columbia,http://www.destinationbc.ca,10,Destination British Columbia,partner,IC/Other,,,http://www.linkedin.com/company/destinationbritishcolumbia,name_block,https://www.destinationbc.ca/,medium
+TPD® Workforce Solutions,http://www.tpd.com,1,Primary Menu,,,,,http://www.linkedin.com/company/tpd-hr,name_block,https://tpd.com/,medium
+TPD® Workforce Solutions,http://www.tpd.com,2,Home Page,,,,,http://www.linkedin.com/company/tpd-hr,name_block,https://tpd.com/,medium
+TPD® Workforce Solutions,http://www.tpd.com,3,Workforce Solutions Experts,,,,,http://www.linkedin.com/company/tpd-hr,name_block,https://tpd.com/,medium
+TPD® Workforce Solutions,http://www.tpd.com,4,Our Impact,,,,,http://www.linkedin.com/company/tpd-hr,name_block,https://tpd.com/,medium
+TPD® Workforce Solutions,http://www.tpd.com,5,Featured Employers,partner,IC/Other,,,http://www.linkedin.com/company/tpd-hr,name_block,https://tpd.com/,medium
+TPD® Workforce Solutions,http://www.tpd.com,6,Contact Us,,,,,http://www.linkedin.com/company/tpd-hr,name_block,https://tpd.com/,medium
+Group 8,http://www.machinelearningintelligence.com,,,,,,,http://www.linkedin.com/company/group8inc,none_found,http://www.machinelearningintelligence.com,low
+Montage Gold,http://www.montagegold.com,,,,,,,http://www.linkedin.com/company/montage-gold-corp,none_found,http://www.montagegold.com,low
+KIT + ACE,http://www.kitandace.com,1,Dalton Relaxed Polo Sweater,,,,,http://www.linkedin.com/company/kit-and-ace,name_block,https://www.kitandace.com/,medium
+KIT + ACE,http://www.kitandace.com,2,Stanton Polo,,,,,http://www.linkedin.com/company/kit-and-ace,name_block,https://www.kitandace.com/,medium
+KIT + ACE,http://www.kitandace.com,3,Soho Crewneck Tee,,,,,http://www.linkedin.com/company/kit-and-ace,name_block,https://www.kitandace.com/,medium
+KIT + ACE,http://www.kitandace.com,4,Vale Merino Sweater Tank,,,,,http://www.linkedin.com/company/kit-and-ace,name_block,https://www.kitandace.com/,medium
+KIT + ACE,http://www.kitandace.com,5,Miles Mac Jacket,,,,,http://www.linkedin.com/company/kit-and-ace,name_block,https://www.kitandace.com/,medium
+KIT + ACE,http://www.kitandace.com,6,The Season Staples,,,,,http://www.linkedin.com/company/kit-and-ace,name_block,https://www.kitandace.com/,medium
+KIT + ACE,http://www.kitandace.com,7,New Arrivals,,,,,http://www.linkedin.com/company/kit-and-ace,name_block,https://www.kitandace.com/,medium
+KIT + ACE,http://www.kitandace.com,8,Men's Sweaters,,,,,http://www.linkedin.com/company/kit-and-ace,name_block,https://www.kitandace.com/,medium
+KIT + ACE,http://www.kitandace.com,9,Picked Just For You,,,,,http://www.linkedin.com/company/kit-and-ace,name_block,https://www.kitandace.com/,medium
+KIT + ACE,http://www.kitandace.com,10,Sign Up Now,,,,,http://www.linkedin.com/company/kit-and-ace,name_block,https://www.kitandace.com/,medium
+WildBrain Studios,,,,,,,,http://www.linkedin.com/company/wildbrainstudios,none_found,,low
+Set 2 Close | B Corp™,http://www.set2close.io,1,Kien Tran,,,,,http://www.linkedin.com/company/set-2-close,name_block,https://set2close.io/,medium
+Set 2 Close | B Corp™,http://www.set2close.io,2,Bob Ale-Ebrahim,,,,,http://www.linkedin.com/company/set-2-close,name_block,https://set2close.io/,medium
+Set 2 Close | B Corp™,http://www.set2close.io,3,Theo Koffas,,,,,http://www.linkedin.com/company/set-2-close,name_block,https://set2close.io/,medium
+Set 2 Close | B Corp™,http://www.set2close.io,4,Brian Alcorn,,,,,http://www.linkedin.com/company/set-2-close,name_block,https://set2close.io/,medium
+Set 2 Close | B Corp™,http://www.set2close.io,5,Revenue Systems,lead generation management,Manager/Lead,,,http://www.linkedin.com/company/set-2-close,name_block,https://set2close.io/,medium
+Set 2 Close | B Corp™,http://www.set2close.io,6,CRM Solution,,,,,http://www.linkedin.com/company/set-2-close,name_block,https://set2close.io/,medium
+Set 2 Close | B Corp™,http://www.set2close.io,7,Fractional RevOps,,,,,http://www.linkedin.com/company/set-2-close,name_block,https://set2close.io/,medium
+Set 2 Close | B Corp™,http://www.set2close.io,8,Wonderful Service,,,,,http://www.linkedin.com/company/set-2-close,name_block,https://set2close.io/,medium
+Set 2 Close | B Corp™,http://www.set2close.io,9,Great Onboarding Experience,partner,IC/Other,,,http://www.linkedin.com/company/set-2-close,name_block,https://set2close.io/,medium
+Set 2 Close | B Corp™,http://www.set2close.io,10,Great Training,,,,,http://www.linkedin.com/company/set-2-close,name_block,https://set2close.io/,medium
+The Fraser Institute,http://www.fraserinstitute.org,,,,,,,http://www.linkedin.com/company/the-fraser-institute,none_found,http://www.fraserinstitute.org,low
+Swim Recruiting,http://www.swimrecruiting.com,1,Top Vancouver Recruitment Agency,,,,,http://www.linkedin.com/company/swim-recruiting,name_block,https://swimrecruiting.com/,medium
+Swim Recruiting,http://www.swimrecruiting.com,2,Our Specialties,,,,,http://www.linkedin.com/company/swim-recruiting,name_block,https://swimrecruiting.com/,medium
+Swim Recruiting,http://www.swimrecruiting.com,3,Keri Fraser,Chief People Officer at Westland Insurance Group Ltd,C-level/Founder,People/HR,,http://www.linkedin.com/company/swim-recruiting,name_block,https://swimrecruiting.com/,medium
+Swim Recruiting,http://www.swimrecruiting.com,4,Anthony Azar,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/swim-recruiting,name_block,https://swimrecruiting.com/,medium
+Swim Recruiting,http://www.swimrecruiting.com,5,Swim Recruiting,,,,,http://www.linkedin.com/company/swim-recruiting,name_block,https://swimrecruiting.com/,medium
+Swim Recruiting,http://www.swimrecruiting.com,6,Follow Us,,,,,http://www.linkedin.com/company/swim-recruiting,name_block,https://swimrecruiting.com/,medium
+Swim Recruiting,http://www.swimrecruiting.com,7,Swimrecruiting,,,,https://www.linkedin.com/in/swimrecruiting/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BygQmBsxiRy2SzgcVt%2F4IOw%3D%3D&#038;licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_people-search_srp_result&#038;lici=p3TA6Cx8QhqhSPdATeSY1w%3D%3D,http://www.linkedin.com/company/swim-recruiting,linkedin_hint,https://swimrecruiting.com/,low
+Swim Recruiting,http://www.swimrecruiting.com,8,Bodilgeyer,,,,https://www.linkedin.com/in/bodilgeyer/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B7igc8R4KR6yQOxtZX%2F2qFA%3D%3D&#038;licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_people-search_srp_result&#038;lici=NRaAjARMRGOj6X6iLDBmQA%3D%3D,http://www.linkedin.com/company/swim-recruiting,linkedin_hint,https://swimrecruiting.com/,low
+Swim Recruiting,http://www.swimrecruiting.com,9,Genevieve Miller 21b7863,,,,https://www.linkedin.com/in/genevieve-miller-21b7863/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BubYRda%2BeRZ%2BulEi4qVWceA%3D%3D&#038;licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_people-search_srp_result&#038;lici=pIoceXQ%2BR3aUBsZlwIxH2Q%3D%3D,http://www.linkedin.com/company/swim-recruiting,linkedin_hint,https://swimrecruiting.com/,low
+Swim Recruiting,http://www.swimrecruiting.com,10,Margauxmurphy,,,,https://www.linkedin.com/in/margauxmurphy/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B7igc8R4KR6yQOxtZX%2F2qFA%3D%3D&#038;licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_people-search_srp_result&#038;lici=4uzpsbL9QJqP%2F%2FIbFCV5UQ%3D%3D,http://www.linkedin.com/company/swim-recruiting,linkedin_hint,https://swimrecruiting.com/,low
+Vard Marine Inc,http://www.vardmarine.com,1,Meet Vard Marine,,,,,http://www.linkedin.com/company/vardmarine,name_block,https://vardmarine.com/,medium
+Vard Marine Inc,http://www.vardmarine.com,2,In The News,,,,,http://www.linkedin.com/company/vardmarine,name_block,https://vardmarine.com/,medium
+Vard Marine Inc,http://www.vardmarine.com,3,Mark Cook,Chief Technical Officer,C-level/Founder,Engineering,,http://www.linkedin.com/company/vardmarine,name_block,https://vardmarine.com/,medium
+Vard Marine Inc,http://www.vardmarine.com,4,Chief Technical Officer,Chief Technical Officer,C-level/Founder,Engineering,,http://www.linkedin.com/company/vardmarine,name_block,https://vardmarine.com/,medium
+Vard Marine Inc,http://www.vardmarine.com,5,Darren Truelock,Vice President,C-level/Founder,,,http://www.linkedin.com/company/vardmarine,name_block,https://vardmarine.com/,medium
+Vard Marine Inc,http://www.vardmarine.com,6,Derek Buxton,Vice President,C-level/Founder,,,http://www.linkedin.com/company/vardmarine,name_block,https://vardmarine.com/,medium
+Vard Marine Inc,http://www.vardmarine.com,7,KRISTIN JOVEL,Vice President,C-level/Founder,,,http://www.linkedin.com/company/vardmarine,name_block,https://vardmarine.com/,medium
+Vard Marine Inc,http://www.vardmarine.com,8,Yong Peng Cheok,,,,,http://www.linkedin.com/company/vardmarine,name_block,https://vardmarine.com/,medium
+Vard Marine Inc,http://www.vardmarine.com,9,FINANCIAL CONTROLLER,,,,,http://www.linkedin.com/company/vardmarine,name_block,https://vardmarine.com/,medium
+Vard Marine Inc,http://www.vardmarine.com,10,Human REsources Manager,Manager,Manager/Lead,,,http://www.linkedin.com/company/vardmarine,name_block,https://vardmarine.com/,medium
+Craver,http://www.getcraver.com,1,Amin Yazdani,Co-Founder,C-level/Founder,,,http://www.linkedin.com/company/craver-solutions,name_block,https://www.getcraver.com/,medium
+Craver,http://www.getcraver.com,2,Shabnam Ahmadi,Co-Founder,C-level/Founder,,,http://www.linkedin.com/company/craver-solutions,name_block,https://www.getcraver.com/,medium
+Craver,http://www.getcraver.com,3,Adi Girish,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/craver-solutions,name_block,https://www.getcraver.com/,medium
+Craver,http://www.getcraver.com,4,Alex Mc Keown,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/craver-solutions,name_block,https://www.getcraver.com/,medium
+Craver,http://www.getcraver.com,5,Chloe Woolsey,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/craver-solutions,name_block,https://www.getcraver.com/,medium
+Craver,http://www.getcraver.com,6,Seyed Mohammad Mahdi Javadi,VP,Director/VP,,,http://www.linkedin.com/company/craver-solutions,name_block,https://www.getcraver.com/,medium
+Craver,http://www.getcraver.com,7,Custom-Branded Mobile Apps,,,,,http://www.linkedin.com/company/craver-solutions,name_block,https://www.getcraver.com/,medium
+Empowered Startups,http://www.empoweredstartups.com,1,Featured Post,,,,,http://www.linkedin.com/company/empoweredstartups,name_block,https://empoweredstartups.com/,medium
+Empowered Startups,http://www.empoweredstartups.com,2,Featured Posts,,,,,http://www.linkedin.com/company/empoweredstartups,name_block,https://empoweredstartups.com/,medium
+Empowered Startups,http://www.empoweredstartups.com,3,Global Mobility Programs,,,,,http://www.linkedin.com/company/empoweredstartups,name_block,https://empoweredstartups.com/,medium
+Empowered Startups,http://www.empoweredstartups.com,4,Canada Startup Visa Program,,,,,http://www.linkedin.com/company/empoweredstartups,name_block,https://empoweredstartups.com/,medium
+Empowered Startups,http://www.empoweredstartups.com,5,Pathways Newsletter,,,,,http://www.linkedin.com/company/empoweredstartups,name_block,https://empoweredstartups.com/,medium
+Empowered Startups,http://www.empoweredstartups.com,6,Amber Allen,Co-Founder,C-level/Founder,,,http://www.linkedin.com/company/empoweredstartups,name_block,https://empoweredstartups.com/,medium
+Empowered Startups,http://www.empoweredstartups.com,7,Paul Girodo,Co-Founder,C-level/Founder,,,http://www.linkedin.com/company/empoweredstartups,name_block,https://empoweredstartups.com/,medium
+Empowered Startups,http://www.empoweredstartups.com,8,Christopher Lennon,President,C-level/Founder,,,http://www.linkedin.com/company/empoweredstartups,name_block,https://empoweredstartups.com/,medium
+Empowered Startups,http://www.empoweredstartups.com,9,Shawn Olson,VP,Director/VP,,,http://www.linkedin.com/company/empoweredstartups,name_block,https://empoweredstartups.com/,medium
+Empowered Startups,http://www.empoweredstartups.com,10,Kyle Kirkegaard,VP,Director/VP,,,http://www.linkedin.com/company/empoweredstartups,name_block,https://empoweredstartups.com/,medium
+Skeena Gold + Silver,http://www.skeenagoldsilver.com,1,Fred,,,,https://skeenagoldsilver.com/author/Fred/,http://www.linkedin.com/company/skeena-gold-silver,jsonld,https://skeenagoldsilver.com/,high
+Skeena Gold + Silver,http://www.skeenagoldsilver.com,2,Walter Coles,,,,,http://www.linkedin.com/company/skeena-gold-silver,name_block,https://skeenagoldsilver.com/,medium
+Skeena Gold + Silver,http://www.skeenagoldsilver.com,3,Metals That Matter,,,,,http://www.linkedin.com/company/skeena-gold-silver,name_block,https://skeenagoldsilver.com/,medium
+Skeena Gold + Silver,http://www.skeenagoldsilver.com,4,Latest News,,,,,http://www.linkedin.com/company/skeena-gold-silver,name_block,https://skeenagoldsilver.com/,medium
+Skeena Gold + Silver,http://www.skeenagoldsilver.com,5,Featured Items,,,,,http://www.linkedin.com/company/skeena-gold-silver,name_block,https://skeenagoldsilver.com/,medium
+Skeena Gold + Silver,http://www.skeenagoldsilver.com,6,Eskay Creek Technical Report,,,,,http://www.linkedin.com/company/skeena-gold-silver,name_block,https://skeenagoldsilver.com/,medium
+Skeena Gold + Silver,http://www.skeenagoldsilver.com,7,Hansjoerg Plaggemars,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/skeena-gold-silver,name_block,https://skeenagoldsilver.com/,medium
+Skeena Gold + Silver,http://www.skeenagoldsilver.com,8,Senior Management,,,,,http://www.linkedin.com/company/skeena-gold-silver,name_block,https://skeenagoldsilver.com/,medium
+Skeena Gold + Silver,http://www.skeenagoldsilver.com,9,Timothy Sewell,Vice President,C-level/Founder,,,http://www.linkedin.com/company/skeena-gold-silver,name_block,https://skeenagoldsilver.com/,medium
+Skeena Gold + Silver,http://www.skeenagoldsilver.com,10,Sustainable Development,partner,IC/Other,,,http://www.linkedin.com/company/skeena-gold-silver,name_block,https://skeenagoldsilver.com/,medium
+Relic Entertainment,http://www.relic.com,1,The Studio,,,,,http://www.linkedin.com/company/relic-entertainment,name_block,https://www.relic.com/,medium
+Relic Entertainment,http://www.relic.com,2,VANCOUVER IN NUMBERS,,,,,http://www.linkedin.com/company/relic-entertainment,name_block,https://www.relic.com/,medium
+Relic Entertainment,http://www.relic.com,3,Current Vacancies,director,C-level/Founder,Engineering,,http://www.linkedin.com/company/relic-entertainment,name_block,https://www.relic.com/,medium
+Relic Entertainment,http://www.relic.com,4,Justin Dowdeswell Ba636b210,,,,https://www.linkedin.com/in/justin-dowdeswell-ba636b210/,http://www.linkedin.com/company/relic-entertainment,linkedin_hint,https://www.relic.com/,low
+Relic Entertainment,http://www.relic.com,5,Endotel,,,,https://www.linkedin.com/in/endotel/,http://www.linkedin.com/company/relic-entertainment,linkedin_hint,https://www.relic.com/,low
+Merkle | Cardinal Path,http://www.cardinalpath.com,1,Platform-Agnostic Mastery,,,,,http://www.linkedin.com/company/cardinal-path,name_block,https://www.cardinalpath.com/,medium
+Merkle | Cardinal Path,http://www.cardinalpath.com,2,Strategic Partnership Focus,Partner,IC/Other,,,http://www.linkedin.com/company/cardinal-path,name_block,https://www.cardinalpath.com/,medium
+Merkle | Cardinal Path,http://www.cardinalpath.com,3,Our Analytics Process,,,,,http://www.linkedin.com/company/cardinal-path,name_block,https://www.cardinalpath.com/,medium
+Merkle | Cardinal Path,http://www.cardinalpath.com,4,Our Toolkit,,,,,http://www.linkedin.com/company/cardinal-path,name_block,https://www.cardinalpath.com/,medium
+Merkle | Cardinal Path,http://www.cardinalpath.com,5,Follow Us,,,,,http://www.linkedin.com/company/cardinal-path,name_block,https://www.cardinalpath.com/,medium
+Merkle | Cardinal Path,http://www.cardinalpath.com,6,Message Sent,,,,,http://www.linkedin.com/company/cardinal-path,name_block,https://www.cardinalpath.com/,medium
+Merkle | Cardinal Path,http://www.cardinalpath.com,7,CASE STUDY,,,,,http://www.linkedin.com/company/cardinal-path,name_block,https://www.cardinalpath.com/,medium
+Merkle | Cardinal Path,http://www.cardinalpath.com,8,Watch Webinar Recording,,,,,http://www.linkedin.com/company/cardinal-path,name_block,https://www.cardinalpath.com/,medium
+Merkle | Cardinal Path,http://www.cardinalpath.com,9,Watch Webinar Recording Here,,,,,http://www.linkedin.com/company/cardinal-path,name_block,https://www.cardinalpath.com/,medium
+Merkle | Cardinal Path,http://www.cardinalpath.com,10,OUR MISSION,,,,,http://www.linkedin.com/company/cardinal-path,name_block,https://www.cardinalpath.com/,medium
+IT/IQ Tech Recruiters,http://www.it-iq.com,,,,,,,http://www.linkedin.com/company/it-iq,none_found,http://www.it-iq.com,low
+tentree,http://www.tentree.com,1,Mystery Boxes,,,,,http://www.linkedin.com/company/ten-tree-apparel,name_block,https://www.tentree.com/,medium
+tentree,http://www.tentree.com,2,New Arrivals,,,,,http://www.linkedin.com/company/ten-tree-apparel,name_block,https://www.tentree.com/,medium
+tentree,http://www.tentree.com,3,Most Popular Categories,,,,,http://www.linkedin.com/company/ten-tree-apparel,name_block,https://www.tentree.com/,medium
+Greater Vancouver Board of Trade,http://www.boardoftrade.com,1,Upcoming Events,,,,,http://www.linkedin.com/company/vancouver-board-of-trade,name_block,https://www.boardoftrade.com/,medium
+Greater Vancouver Board of Trade,http://www.boardoftrade.com,2,Our Pillar Partners,Partner,IC/Other,,,http://www.linkedin.com/company/vancouver-board-of-trade,name_block,https://www.boardoftrade.com/,medium
+Inca One Gold Corp. Perú,,,,,,,,http://www.linkedin.com/company/inca-one-gold-corp-per%c3%ba,none_found,,low
+Aspect Biosystems,http://www.aspectbiosystems.com,1,Our Story,,,,,http://www.linkedin.com/company/aspect-biosystems,name_block,https://www.aspectbiosystems.com/,medium
+Aspect Biosystems,http://www.aspectbiosystems.com,2,Tamer Mohamed,Founder,C-level/Founder,,,http://www.linkedin.com/company/aspect-biosystems,name_block,https://www.aspectbiosystems.com/,medium
+Aspect Biosystems,http://www.aspectbiosystems.com,3,Zealous Soccer Player,CEO,C-level/Founder,,,http://www.linkedin.com/company/aspect-biosystems,name_block,https://www.aspectbiosystems.com/,medium
+Aspect Biosystems,http://www.aspectbiosystems.com,4,Sam Wadsworth,Chief Scientific Officer,C-level/Founder,,,http://www.linkedin.com/company/aspect-biosystems,name_block,https://www.aspectbiosystems.com/,medium
+Aspect Biosystems,http://www.aspectbiosystems.com,5,Chief Scientific Officer,Chief Scientific Officer,C-level/Founder,,,http://www.linkedin.com/company/aspect-biosystems,name_block,https://www.aspectbiosystems.com/,medium
+Aspect Biosystems,http://www.aspectbiosystems.com,6,Simon Beyer,Chief Technology Officer,C-level/Founder,Engineering,,http://www.linkedin.com/company/aspect-biosystems,name_block,https://www.aspectbiosystems.com/,medium
+Aspect Biosystems,http://www.aspectbiosystems.com,7,Chief Technology Officer,Chief Technology Officer,C-level/Founder,Engineering,,http://www.linkedin.com/company/aspect-biosystems,name_block,https://www.aspectbiosystems.com/,medium
+Aspect Biosystems,http://www.aspectbiosystems.com,8,Leela Paris,Chief Technical Operations Officer,C-level/Founder,Engineering,,http://www.linkedin.com/company/aspect-biosystems,name_block,https://www.aspectbiosystems.com/,medium
+Aspect Biosystems,http://www.aspectbiosystems.com,9,Chief Technical Operations Officer,Chief Technical Operations Officer,C-level/Founder,Engineering,,http://www.linkedin.com/company/aspect-biosystems,name_block,https://www.aspectbiosystems.com/,medium
+Aspect Biosystems,http://www.aspectbiosystems.com,10,Fibre Artist Extraordinaire,Chief Technical Operations Officer,C-level/Founder,Engineering,,http://www.linkedin.com/company/aspect-biosystems,name_block,https://www.aspectbiosystems.com/,medium
+Intern Insider,http://www.interninsider.me,,,,,,,http://www.linkedin.com/company/intern-insider-me,none_found,http://www.interninsider.me,low
+BIV News,http://www.biv.com,,,,,,,http://www.linkedin.com/company/bivnews,none_found,http://www.biv.com,low
+Student Biotechnology Network,http://www.thesbn.ca,,,,,,,http://www.linkedin.com/company/thesbn,none_found,http://www.thesbn.ca,low
+beloFX,http://www.belofx.com,,,,,,,http://www.linkedin.com/company/belofx,none_found,http://www.belofx.com,low
+Owl.co,http://www.owl.co,1,Investigate Any Detail,,,,,http://www.linkedin.com/company/owldotco,name_block,https://owl.co/,medium
+Owl.co,http://www.owl.co,2,Get Actionable Insights,,,,,http://www.linkedin.com/company/owldotco,name_block,https://owl.co/,medium
+Owl.co,http://www.owl.co,3,Access External Data,,,,,http://www.linkedin.com/company/owldotco,name_block,https://owl.co/,medium
+Owl.co,http://www.owl.co,4,Empowering Insurance Teams,,,,,http://www.linkedin.com/company/owldotco,name_block,https://owl.co/,medium
+Owl.co,http://www.owl.co,5,We Care About Truth,,,,,http://www.linkedin.com/company/owldotco,name_block,https://owl.co/,medium
+Owl.co,http://www.owl.co,6,Where We Work,,,,,http://www.linkedin.com/company/owldotco,name_block,https://owl.co/,medium
+Elevation Capital,http://www.elevationcapital.vc,1,Our Purpose,,,,,http://www.linkedin.com/company/elevation-capital,name_block,https://www.elevationcapital.vc/,medium
+Elevation Capital,http://www.elevationcapital.vc,2,Steve Curtis,Principal,IC/Other,,,http://www.linkedin.com/company/elevation-capital,name_block,https://www.elevationcapital.vc/,medium
+Elevation Capital,http://www.elevationcapital.vc,3,Andrew Kulpa,,,,,http://www.linkedin.com/company/elevation-capital,name_block,https://www.elevationcapital.vc/,medium
+Elevation Capital,http://www.elevationcapital.vc,4,Sheldon Bradshaw,Chief Regulatory officer,C-level/Founder,,,http://www.linkedin.com/company/elevation-capital,name_block,https://www.elevationcapital.vc/,medium
+Elevation Capital,http://www.elevationcapital.vc,5,Jonathan Moretti,VP,Director/VP,,,http://www.linkedin.com/company/elevation-capital,name_block,https://www.elevationcapital.vc/,medium
+Elevation Capital,http://www.elevationcapital.vc,6,Mark Mains,Chief of Staff,C-level/Founder,,,http://www.linkedin.com/company/elevation-capital,name_block,https://www.elevationcapital.vc/,medium
+Elevation Capital,http://www.elevationcapital.vc,7,Melissa Day,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/elevation-capital,name_block,https://www.elevationcapital.vc/,medium
+Elevation Capital,http://www.elevationcapital.vc,8,Transaction Advisory,founder,C-level/Founder,,,http://www.linkedin.com/company/elevation-capital,name_block,https://www.elevationcapital.vc/,medium
+Elevation Capital,http://www.elevationcapital.vc,9,Steve Economos,,,,,http://www.linkedin.com/company/elevation-capital,name_block,https://www.elevationcapital.vc/,medium
+Elevation Capital,http://www.elevationcapital.vc,10,Jared Fix,,,,,http://www.linkedin.com/company/elevation-capital,name_block,https://www.elevationcapital.vc/,medium
+Turtle,http://www.turtle.design,1,Drive AI,,,,,http://www.linkedin.com/company/turtledesign,name_block,https://turtle.design/,medium
+Turtle,http://www.turtle.design,2,Travel App,,,,,http://www.linkedin.com/company/turtledesign,name_block,https://turtle.design/,medium
+Turtle,http://www.turtle.design,3,Social Fitness App,,,,,http://www.linkedin.com/company/turtledesign,name_block,https://turtle.design/,medium
+Robert Allan Ltd.,http://www.ral.ca,1,Connect With Us,,,,,http://www.linkedin.com/company/robert-allan-ltd,name_block,https://ral.ca/,medium
+Robert Allan Ltd.,http://www.ral.ca,2,Design Enquiries,,,,,http://www.linkedin.com/company/robert-allan-ltd,name_block,https://ral.ca/,medium
+Robert Allan Ltd.,http://www.ral.ca,3,General Enquiries,,,,,http://www.linkedin.com/company/robert-allan-ltd,name_block,https://ral.ca/,medium
+Robert Allan Ltd.,http://www.ral.ca,4,Supplier Enquiries,,,,,http://www.linkedin.com/company/robert-allan-ltd,name_block,https://ral.ca/,medium
+Robert Allan Ltd.,http://www.ral.ca,5,daddison,,,,https://ral.ca/author/dionne/,http://www.linkedin.com/company/robert-allan-ltd,jsonld,https://ral.ca/,high
+Robert Allan Ltd.,http://www.ral.ca,6,Who We Are,,,,,http://www.linkedin.com/company/robert-allan-ltd,name_block,https://ral.ca/,medium
+Robert Allan Ltd.,http://www.ral.ca,7,The Land,,,,,http://www.linkedin.com/company/robert-allan-ltd,name_block,https://ral.ca/,medium
+Robert Allan Ltd.,http://www.ral.ca,8,Our Objectives,,,,,http://www.linkedin.com/company/robert-allan-ltd,name_block,https://ral.ca/,medium
+Robert Allan Ltd.,http://www.ral.ca,9,Corporate Policy,,,,,http://www.linkedin.com/company/robert-allan-ltd,name_block,https://ral.ca/,medium
+Rainmaker Entertainment,,,,,,,,http://www.linkedin.com/company/mainframestudios,none_found,,low
+Breakthrough Academy,http://www.btacademy.com,1,Financial Controls,,,,,http://www.linkedin.com/company/breakthroughacademy,name_block,https://www.btacademy.com/,medium
+Breakthrough Academy,http://www.btacademy.com,2,Defined Roles,,,,,http://www.linkedin.com/company/breakthroughacademy,name_block,https://www.btacademy.com/,medium
+Breakthrough Academy,http://www.btacademy.com,3,Hiring Systems,,,,,http://www.linkedin.com/company/breakthroughacademy,name_block,https://www.btacademy.com/,medium
+Breakthrough Academy,http://www.btacademy.com,4,Implementation Track,,,,,http://www.linkedin.com/company/breakthroughacademy,name_block,https://www.btacademy.com/,medium
+Breakthrough Academy,http://www.btacademy.com,5,Our Core Values,,,,,http://www.linkedin.com/company/breakthroughacademy,name_block,https://www.btacademy.com/,medium
+Breakthrough Academy,http://www.btacademy.com,6,Our Team,,,,,http://www.linkedin.com/company/breakthroughacademy,name_block,https://www.btacademy.com/,medium
+Ero Copper Corp,,,,,,,,http://www.linkedin.com/company/ero-copper-corp,none_found,,low
+Life Sciences BC,http://www.lifesciencesbc.ca,1,Life Sciences BC,partner,IC/Other,,,http://www.linkedin.com/company/lifesciences-bc,name_block,https://lifesciencesbc.ca/,medium
+Life Sciences BC,http://www.lifesciencesbc.ca,2,Animal Care Contractor,,,,,http://www.linkedin.com/company/lifesciences-bc,name_block,https://lifesciencesbc.ca/,medium
+Life Sciences BC,http://www.lifesciencesbc.ca,3,Platinum Sponsors,,,,,http://www.linkedin.com/company/lifesciences-bc,name_block,https://lifesciencesbc.ca/,medium
+Life Sciences BC,http://www.lifesciencesbc.ca,4,Gold Sponsors,,,,,http://www.linkedin.com/company/lifesciences-bc,name_block,https://lifesciencesbc.ca/,medium
+Life Sciences BC,http://www.lifesciencesbc.ca,5,Silver Sponsors Silver Sponsors,,,,,http://www.linkedin.com/company/lifesciences-bc,name_block,https://lifesciencesbc.ca/,medium
+Life Sciences BC,http://www.lifesciencesbc.ca,6,Newsletter Signup,,,,,http://www.linkedin.com/company/lifesciences-bc,name_block,https://lifesciencesbc.ca/,medium
+Life Sciences BC,http://www.lifesciencesbc.ca,7,Page Not Found,,,,,http://www.linkedin.com/company/lifesciences-bc,name_block,https://lifesciencesbc.ca/,medium
+Life Sciences BC,http://www.lifesciencesbc.ca,8,Our Mission,,,,,http://www.linkedin.com/company/lifesciences-bc,name_block,https://lifesciencesbc.ca/,medium
+Ocean Wise,http://www.ocean.org,1,Become Shoreline Champions,,,,,http://www.linkedin.com/company/oceanwise,name_block,https://ocean.org/,medium
+Ocean Wise,http://www.ocean.org,2,Our Global Impact,,,,,http://www.linkedin.com/company/oceanwise,name_block,https://ocean.org/,medium
+Ocean Wise,http://www.ocean.org,3,Dive In,,,,,http://www.linkedin.com/company/oceanwise,name_block,https://ocean.org/,medium
+Ocean Wise,http://www.ocean.org,4,Our Impact,,,,,http://www.linkedin.com/company/oceanwise,name_block,https://ocean.org/,medium
+Ocean Wise,http://www.ocean.org,5,Our People,,,,,http://www.linkedin.com/company/oceanwise,name_block,https://ocean.org/,medium
+Ocean Wise,http://www.ocean.org,6,Our Guiding Current,,,,,http://www.linkedin.com/company/oceanwise,name_block,https://ocean.org/,medium
+D3 Security,http://www.d3security.com,1,Autonomous Security Operations,,,,,http://www.linkedin.com/company/d3-security-management-systems,name_block,https://d3security.com/,medium
+D3 Security,http://www.d3security.com,2,AI Agents,,,,,http://www.linkedin.com/company/d3-security-management-systems,name_block,https://d3security.com/,medium
+D3 Security,http://www.d3security.com,3,Steven Sampana,Manager,Manager/Lead,,,http://www.linkedin.com/company/d3-security-management-systems,name_block,https://d3security.com/,medium
+D3 Security,http://www.d3security.com,4,Human-Controlled Autonomy,,,,,http://www.linkedin.com/company/d3-security-management-systems,name_block,https://d3security.com/,medium
+D3 Security,http://www.d3security.com,5,Autonomous SecOps FAQ,,,,,http://www.linkedin.com/company/d3-security-management-systems,name_block,https://d3security.com/,medium
+NexGen Energy Ltd.,http://www.nexgenenergy.ca,,,,,,,http://www.linkedin.com/company/nexgen-energy-ltd-,none_found,http://www.nexgenenergy.ca,low
+Canopy,http://www.canopyplanet.org,1,Saving The Planet,,,,,http://www.linkedin.com/company/canopyplanet,name_block,https://canopyplanet.org/,medium
+Canopy,http://www.canopyplanet.org,2,The Solution,partner,IC/Other,,,http://www.linkedin.com/company/canopyplanet,name_block,https://canopyplanet.org/,medium
+Canopy,http://www.canopyplanet.org,3,The Forests We Protect,,,,,http://www.linkedin.com/company/canopyplanet,name_block,https://canopyplanet.org/,medium
+Canopy,http://www.canopyplanet.org,4,Donate Now,,,,,http://www.linkedin.com/company/canopyplanet,name_block,https://canopyplanet.org/,medium
+Canopy,http://www.canopyplanet.org,5,About Us,,,,,http://www.linkedin.com/company/canopyplanet,name_block,https://canopyplanet.org/,medium
+Blackbird Interactive,http://www.blackbirdinteractive.com,1,LEADERSHIP TEAM,,,,,http://www.linkedin.com/company/blackbird-interactive-inc,name_block,https://blackbirdinteractive.com/,medium
+Keycafe,http://www.keycafe.com,1,Explore Resources,,,,,http://www.linkedin.com/company/keycafe,name_block,https://www.keycafe.com/,medium
+Keycafe,http://www.keycafe.com,2,Transforming Key Management,,,,,http://www.linkedin.com/company/keycafe,name_block,https://www.keycafe.com/,medium
+Keycafe,http://www.keycafe.com,3,Cloud-Based Access Control,,,,,http://www.linkedin.com/company/keycafe,name_block,https://www.keycafe.com/,medium
+Keycafe,http://www.keycafe.com,4,Full Visibility,,,,,http://www.linkedin.com/company/keycafe,name_block,https://www.keycafe.com/,medium
+Keycafe,http://www.keycafe.com,5,API Automation,,,,,http://www.linkedin.com/company/keycafe,name_block,https://www.keycafe.com/,medium
+Keycafe,http://www.keycafe.com,6,Bruno Miras,,,,,http://www.linkedin.com/company/keycafe,name_block,https://www.keycafe.com/,medium
+Keycafe,http://www.keycafe.com,7,Eric Blanchard,,,,,http://www.linkedin.com/company/keycafe,name_block,https://www.keycafe.com/,medium
+Keycafe,http://www.keycafe.com,8,Rob Harrison,Manager,Manager/Lead,,,http://www.linkedin.com/company/keycafe,name_block,https://www.keycafe.com/,medium
+Keycafe,http://www.keycafe.com,9,Keycafe Management Team,,,,,http://www.linkedin.com/company/keycafe,name_block,https://www.keycafe.com/,medium
+Keycafe,http://www.keycafe.com,10,European Accounts,,,,,http://www.linkedin.com/company/keycafe,name_block,https://www.keycafe.com/,medium
+"Galvanize, now Diligent",http://www.wegalvanize.com,1,Board Director,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/wegalvanize,name_block,https://www.diligent.com/,medium
+"Galvanize, now Diligent",http://www.wegalvanize.com,2,Your Data Matters,,,,,http://www.linkedin.com/company/wegalvanize,name_block,https://www.diligent.com/,medium
+"Galvanize, now Diligent",http://www.wegalvanize.com,3,Our Board,,,,,http://www.linkedin.com/company/wegalvanize,name_block,https://www.diligent.com/,medium
+"Galvanize, now Diligent",http://www.wegalvanize.com,4,Brian K Stafford,,,,https://www.linkedin.com/in/brian-k-stafford/,http://www.linkedin.com/company/wegalvanize,linkedin_hint,https://www.diligent.com/,low
+"Galvanize, now Diligent",http://www.wegalvanize.com,5,Ron Rogozinski 44852b4,,,,https://www.linkedin.com/in/ron-rogozinski-44852b4/,http://www.linkedin.com/company/wegalvanize,linkedin_hint,https://www.diligent.com/,low
+"Galvanize, now Diligent",http://www.wegalvanize.com,6,Markeith,,,,https://www.linkedin.com/in/markeith/,http://www.linkedin.com/company/wegalvanize,linkedin_hint,https://www.diligent.com/,low
+"Galvanize, now Diligent",http://www.wegalvanize.com,7,Nithyadas,,,,https://www.linkedin.com/in/nithyadas/,http://www.linkedin.com/company/wegalvanize,linkedin_hint,https://www.diligent.com/,low
+"Galvanize, now Diligent",http://www.wegalvanize.com,8,Meeram,,,,https://www.linkedin.com/in/meeram/,http://www.linkedin.com/company/wegalvanize,linkedin_hint,https://www.diligent.com/,low
+"Galvanize, now Diligent",http://www.wegalvanize.com,9,Avigail Dadone Sphr Shrm Scp 5bb91ba,,,,https://www.linkedin.com/in/avigail-dadone-sphr-shrm-scp-5bb91ba/,http://www.linkedin.com/company/wegalvanize,linkedin_hint,https://www.diligent.com/,low
+"Galvanize, now Diligent",http://www.wegalvanize.com,10,Abhasin,,,,https://www.linkedin.com/in/abhasin/,http://www.linkedin.com/company/wegalvanize,linkedin_hint,https://www.diligent.com/,low
+Comm100,http://www.comm100.com,1,AI Agent,,,,,http://www.linkedin.com/company/comm100-network-corporation,name_block,https://www.comm100.com/,medium
+Comm100,http://www.comm100.com,2,AI Copilot,,,,,http://www.linkedin.com/company/comm100-network-corporation,name_block,https://www.comm100.com/,medium
+Comm100,http://www.comm100.com,3,AI Insights,,,,,http://www.linkedin.com/company/comm100-network-corporation,name_block,https://www.comm100.com/,medium
+Comm100,http://www.comm100.com,4,AI Training,,,,,http://www.linkedin.com/company/comm100-network-corporation,name_block,https://www.comm100.com/,medium
+Comm100,http://www.comm100.com,5,Live Chat,,,,,http://www.linkedin.com/company/comm100-network-corporation,name_block,https://www.comm100.com/,medium
+Comm100,http://www.comm100.com,6,Knowledge Base,,,,,http://www.linkedin.com/company/comm100-network-corporation,name_block,https://www.comm100.com/,medium
+Comm100,http://www.comm100.com,7,Queue Management,,,,,http://www.linkedin.com/company/comm100-network-corporation,name_block,https://www.comm100.com/,medium
+Comm100,http://www.comm100.com,8,Tailor Your Plan,,,,,http://www.linkedin.com/company/comm100-network-corporation,name_block,https://www.comm100.com/,medium
+Comm100,http://www.comm100.com,9,Continuously Optimize,,,,,http://www.linkedin.com/company/comm100-network-corporation,name_block,https://www.comm100.com/,medium
+Comm100,http://www.comm100.com,10,Live Webinar,,,,,http://www.linkedin.com/company/comm100-network-corporation,name_block,https://www.comm100.com/,medium
+adMare BioInnovations,http://www.admarebio.com,1,Gordon C. McCauley,President,C-level/Founder,,,http://www.linkedin.com/company/admare-bioinnovations,name_block,https://www.admarebio.com/en/,medium
+adMare BioInnovations,http://www.admarebio.com,2,Vancouver Innovation Centre,,,,,http://www.linkedin.com/company/admare-bioinnovations,name_block,https://www.admarebio.com/en/,medium
+adMare BioInnovations,http://www.admarebio.com,3,Toronto Office,,,,,http://www.linkedin.com/company/admare-bioinnovations,name_block,https://www.admarebio.com/en/,medium
+adMare BioInnovations,http://www.admarebio.com,4,Montreal Innovation Centre,,,,,http://www.linkedin.com/company/admare-bioinnovations,name_block,https://www.admarebio.com/en/,medium
+adMare BioInnovations,http://www.admarebio.com,5,Our Vision,,,,,http://www.linkedin.com/company/admare-bioinnovations,name_block,https://www.admarebio.com/en/,medium
+adMare BioInnovations,http://www.admarebio.com,6,Our Mission,,,,,http://www.linkedin.com/company/admare-bioinnovations,name_block,https://www.admarebio.com/en/,medium
+adMare BioInnovations,http://www.admarebio.com,7,The Result,,,,,http://www.linkedin.com/company/admare-bioinnovations,name_block,https://www.admarebio.com/en/,medium
+adMare BioInnovations,http://www.admarebio.com,8,Annual Report,,,,,http://www.linkedin.com/company/admare-bioinnovations,name_block,https://www.admarebio.com/en/,medium
+Giant Ant,http://www.giantant.ca,1,Genshin Impact.,,,,,http://www.linkedin.com/company/giant-ant-media,name_block,https://www.giantant.ca/,medium
+Giant Ant,http://www.giantant.ca,2,The Last White Rhino,,,,,http://www.linkedin.com/company/giant-ant-media,name_block,https://www.giantant.ca/,medium
+Giant Ant,http://www.giantant.ca,3,The Last White Rhino.,,,,,http://www.linkedin.com/company/giant-ant-media,name_block,https://www.giantant.ca/,medium
+SAXX,http://www.saxxunderwear.com,1,Shopping Cart,,,,,http://www.linkedin.com/company/saxx-underwear-co-,name_block,https://www.saxxunderwear.com/,medium
+SAXX,http://www.saxxunderwear.com,2,Search SAXX,,,,,http://www.linkedin.com/company/saxx-underwear-co-,name_block,https://www.saxxunderwear.com/,medium
+SAXX,http://www.saxxunderwear.com,3,Site Settings,,,,,http://www.linkedin.com/company/saxx-underwear-co-,name_block,https://www.saxxunderwear.com/,medium
+SAXX,http://www.saxxunderwear.com,4,Shipping Destination,,,,,http://www.linkedin.com/company/saxx-underwear-co-,name_block,https://www.saxxunderwear.com/,medium
+SAXX,http://www.saxxunderwear.com,5,North America,,,,,http://www.linkedin.com/company/saxx-underwear-co-,name_block,https://www.saxxunderwear.com/,medium
+SAXX,http://www.saxxunderwear.com,6,South America,,,,,http://www.linkedin.com/company/saxx-underwear-co-,name_block,https://www.saxxunderwear.com/,medium
+Weir MOTION METRICS™,http://www.motionmetrics.com,,,,,,,http://www.linkedin.com/company/motionmetrics,none_found,http://www.motionmetrics.com,low
+Blockchain Intelligence Group,http://www.blockchaingroup.io,1,Robust Attribution Data,,,,,http://www.linkedin.com/company/blockchain-intelligence-group,name_block,https://blockchaingroup.io/,medium
+Blockchain Intelligence Group,http://www.blockchaingroup.io,2,User-Friendly Multi-Chain Graphing,,,,,http://www.linkedin.com/company/blockchain-intelligence-group,name_block,https://blockchaingroup.io/,medium
+Blockchain Intelligence Group,http://www.blockchaingroup.io,3,Extensive Coverage,,,,,http://www.linkedin.com/company/blockchain-intelligence-group,name_block,https://blockchaingroup.io/,medium
+Blockchain Intelligence Group,http://www.blockchaingroup.io,4,Our Powerful Solutions,,,,,http://www.linkedin.com/company/blockchain-intelligence-group,name_block,https://blockchaingroup.io/,medium
+Blockchain Intelligence Group,http://www.blockchaingroup.io,5,Entity Explorer,,,,,http://www.linkedin.com/company/blockchain-intelligence-group,name_block,https://blockchaingroup.io/,medium
+Blockchain Intelligence Group,http://www.blockchaingroup.io,6,Address Watch,,,,,http://www.linkedin.com/company/blockchain-intelligence-group,name_block,https://blockchaingroup.io/,medium
+Blockchain Intelligence Group,http://www.blockchaingroup.io,7,Industries We Serve,,,,,http://www.linkedin.com/company/blockchain-intelligence-group,name_block,https://blockchaingroup.io/,medium
+Blockchain Intelligence Group,http://www.blockchaingroup.io,8,Law Enforcement,,,,,http://www.linkedin.com/company/blockchain-intelligence-group,name_block,https://blockchaingroup.io/,medium
+Blockchain Intelligence Group,http://www.blockchaingroup.io,9,Virtual Asset Service Providers,,,,,http://www.linkedin.com/company/blockchain-intelligence-group,name_block,https://blockchaingroup.io/,medium
+Blockchain Intelligence Group,http://www.blockchaingroup.io,10,What Sets Us Apart,,,,,http://www.linkedin.com/company/blockchain-intelligence-group,name_block,https://blockchaingroup.io/,medium
+Lumina Gold,http://www.luminagold.com,,,,,,,http://www.linkedin.com/company/lumina-gold,none_found,http://www.luminagold.com,low
+Fast + Epp,http://www.fastepp.com,1,Designing Ambitious Structures,,,,,http://www.linkedin.com/company/fast-epp,name_block,https://www.fastepp.com/,medium
+Fast + Epp,http://www.fastepp.com,2,Propelling Architectural Imagination,,,,,http://www.linkedin.com/company/fast-epp,name_block,https://www.fastepp.com/,medium
+Fast + Epp,http://www.fastepp.com,3,Embracing Simplicity,,,,,http://www.linkedin.com/company/fast-epp,name_block,https://www.fastepp.com/,medium
+Fast + Epp,http://www.fastepp.com,4,Advancing Structural Design,,,,,http://www.linkedin.com/company/fast-epp,name_block,https://www.fastepp.com/,medium
+Fast + Epp,http://www.fastepp.com,5,Connecting International Perspectives,,,,,http://www.linkedin.com/company/fast-epp,name_block,https://www.fastepp.com/,medium
+Fast + Epp,http://www.fastepp.com,6,New Brunswick Museum,,,,,http://www.linkedin.com/company/fast-epp,name_block,https://www.fastepp.com/,medium
+Fast + Epp,http://www.fastepp.com,7,Walmart Home Office,,,,,http://www.linkedin.com/company/fast-epp,name_block,https://www.fastepp.com/,medium
+Fast + Epp,http://www.fastepp.com,8,Concept Lab,,,,,http://www.linkedin.com/company/fast-epp,name_block,https://www.fastepp.com/,medium
+Fast + Epp,http://www.fastepp.com,9,Design Trails,,,,,http://www.linkedin.com/company/fast-epp,name_block,https://www.fastepp.com/,medium
+EarthDaily,http://www.earthdaily.com,1,EarthDaily Constellation,,,,,http://www.linkedin.com/company/earthdailyanalytics,name_block,https://earthdaily.com/,medium
+EarthDaily,http://www.earthdaily.com,2,Maritime Tracking,,,,,http://www.linkedin.com/company/earthdailyanalytics,name_block,https://earthdaily.com/,medium
+EarthDaily,http://www.earthdaily.com,3,Urban Infrastructure,,,,,http://www.linkedin.com/company/earthdailyanalytics,name_block,https://earthdaily.com/,medium
+EarthDaily,http://www.earthdaily.com,4,Environmental Risk,,,,,http://www.linkedin.com/company/earthdailyanalytics,name_block,https://earthdaily.com/,medium
+EarthDaily,http://www.earthdaily.com,5,Recent Posts,,,,,http://www.linkedin.com/company/earthdailyanalytics,name_block,https://earthdaily.com/,medium
+EarthDaily,http://www.earthdaily.com,6,Earth Intelligence,,,,,http://www.linkedin.com/company/earthdailyanalytics,name_block,https://earthdaily.com/,medium
+EarthDaily,http://www.earthdaily.com,7,About Us,,,,,http://www.linkedin.com/company/earthdailyanalytics,name_block,https://earthdaily.com/,medium
+EarthDaily,http://www.earthdaily.com,8,Our History,,,,,http://www.linkedin.com/company/earthdailyanalytics,name_block,https://earthdaily.com/,medium
+EarthDaily,http://www.earthdaily.com,9,Descartes Labs,,,,,http://www.linkedin.com/company/earthdailyanalytics,name_block,https://earthdaily.com/,medium
+EarthDaily,http://www.earthdaily.com,10,Trinity Capital,,,,,http://www.linkedin.com/company/earthdailyanalytics,name_block,https://earthdaily.com/,medium
+Trace Labs,http://www.tracelabs.org,1,Featured Blog Post,,,,,http://www.linkedin.com/company/tracelabs,name_block,https://www.tracelabs.org/,medium
+Trace Labs,http://www.tracelabs.org,2,Upcoming Search Party,,,,,http://www.linkedin.com/company/tracelabs,name_block,https://www.tracelabs.org/,medium
+Trace Labs,http://www.tracelabs.org,3,Assisted Cases,,,,,http://www.linkedin.com/company/tracelabs,name_block,https://www.tracelabs.org/,medium
+Trace Labs,http://www.tracelabs.org,4,Search Parties,,,,,http://www.linkedin.com/company/tracelabs,name_block,https://www.tracelabs.org/,medium
+Trace Labs,http://www.tracelabs.org,5,Members Strong,,,,,http://www.linkedin.com/company/tracelabs,name_block,https://www.tracelabs.org/,medium
+Trace Labs,http://www.tracelabs.org,6,Follow Us,,,,,http://www.linkedin.com/company/tracelabs,name_block,https://www.tracelabs.org/,medium
+The Metals Company,http://www.metals.co,1,Critical Minerals,,,,,http://www.linkedin.com/company/the-metals-company,name_block,https://metals.co/,medium
+The Metals Company,http://www.metals.co,2,Science Program,,,,,http://www.linkedin.com/company/the-metals-company,name_block,https://metals.co/,medium
+The Metals Company,http://www.metals.co,3,NORI ESIA,,,,,http://www.linkedin.com/company/the-metals-company,name_block,https://metals.co/,medium
+The Metals Company,http://www.metals.co,4,NORI Project,,,,,http://www.linkedin.com/company/the-metals-company,name_block,https://metals.co/,medium
+The Metals Company,http://www.metals.co,5,Privacy Overview,,,,,http://www.linkedin.com/company/the-metals-company,name_block,https://metals.co/,medium
+The Metals Company,http://www.metals.co,6,Gerard Barron,CEO,C-level/Founder,,,http://www.linkedin.com/company/the-metals-company,name_block,https://metals.co/,medium
+The Metals Company,http://www.metals.co,7,Greg Stone,Chief Ocean Scientist,C-level/Founder,,,http://www.linkedin.com/company/the-metals-company,name_block,https://metals.co/,medium
+The Metals Company,http://www.metals.co,8,Craig Shesky,Chief Financial Officer,C-level/Founder,,,http://www.linkedin.com/company/the-metals-company,name_block,https://metals.co/,medium
+The Metals Company,http://www.metals.co,9,Andy Jones,Chief Technology Officer,C-level/Founder,Engineering,,http://www.linkedin.com/company/the-metals-company,name_block,https://metals.co/,medium
+The Metals Company,http://www.metals.co,10,Erica Ocampo,Chief Sustainability Officer,C-level/Founder,,,http://www.linkedin.com/company/the-metals-company,name_block,https://metals.co/,medium
+Major Tom,http://www.majortom.com,1,The Marketing Benchmark Tool,,,,,http://www.linkedin.com/company/itsmajortom,name_block,https://www.majortom.com/,medium
+Major Tom,http://www.majortom.com,2,Marketing Director,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/itsmajortom,name_block,https://www.majortom.com/,medium
+Major Tom,http://www.majortom.com,3,Digital Content Manager,Manager,Manager/Lead,,,http://www.linkedin.com/company/itsmajortom,name_block,https://www.majortom.com/,medium
+Major Tom,http://www.majortom.com,4,Chief Growth Officer,Chief Growth Officer,C-level/Founder,Marketing,,http://www.linkedin.com/company/itsmajortom,name_block,https://www.majortom.com/,medium
+Maximizer,http://www.maximizer.com,1,Aaron Machobear,,,,https://www.maximizer.com/author/aaron/,http://www.linkedin.com/company/maximizercrm,jsonld,https://www.maximizer.com/,high
+Maximizer,http://www.maximizer.com,2,Explore Maximizer Solutions,,,,,http://www.linkedin.com/company/maximizercrm,name_block,https://www.maximizer.com/,medium
+Maximizer,http://www.maximizer.com,3,Activity Timeline,,,,,http://www.linkedin.com/company/maximizercrm,name_block,https://www.maximizer.com/,medium
+Maximizer,http://www.maximizer.com,4,Lead Handling,Lead Handling,Manager/Lead,,,http://www.linkedin.com/company/maximizercrm,name_block,https://www.maximizer.com/,medium
+Maximizer,http://www.maximizer.com,5,Dynamic Pipeline,,,,,http://www.linkedin.com/company/maximizercrm,name_block,https://www.maximizer.com/,medium
+Maximizer,http://www.maximizer.com,6,AI-Powered Insights,,,,,http://www.linkedin.com/company/maximizercrm,name_block,https://www.maximizer.com/,medium
+Maximizer,http://www.maximizer.com,7,Try Maximizer Today,lead to success,Manager/Lead,,,http://www.linkedin.com/company/maximizercrm,name_block,https://www.maximizer.com/,medium
+Treewalk,http://www.treewalk.com,1,About Us,,,,,http://www.linkedin.com/company/treewalk,name_block,https://treewalk.com/,medium
+Treewalk,http://www.treewalk.com,2,Protected Page,,,,,http://www.linkedin.com/company/treewalk,name_block,https://treewalk.com/,medium
+Newcore Gold,http://www.newcoregold.com,1,OUR VISION,,,,,http://www.linkedin.com/company/newcore-gold,name_block,https://newcoregold.com/,medium
+Newcore Gold,http://www.newcoregold.com,2,Recent News,,,,,http://www.linkedin.com/company/newcore-gold,name_block,https://newcoregold.com/,medium
+Newcore Gold,http://www.newcoregold.com,3,The Newcore Name,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/newcore-gold,name_block,https://newcoregold.com/,medium
+Procurify,http://www.procurify.com,1,Chad Gaydos,,,,,http://www.linkedin.com/company/procurify,name_block,https://www.procurify.com/,medium
+Procurify,http://www.procurify.com,2,Amy Wang,,,,,http://www.linkedin.com/company/procurify,name_block,https://www.procurify.com/,medium
+Procurify,http://www.procurify.com,3,Jeffrey Hardy,,,,,http://www.linkedin.com/company/procurify,name_block,https://www.procurify.com/,medium
+Procurify,http://www.procurify.com,4,Jonathan Su,,,,,http://www.linkedin.com/company/procurify,name_block,https://www.procurify.com/,medium
+Procurify,http://www.procurify.com,5,Lauren Harcott,,,,,http://www.linkedin.com/company/procurify,name_block,https://www.procurify.com/,medium
+Procurify,http://www.procurify.com,6,Rob McGarry,,,,,http://www.linkedin.com/company/procurify,name_block,https://www.procurify.com/,medium
+Procurify,http://www.procurify.com,7,Neil Power,,,,,http://www.linkedin.com/company/procurify,name_block,https://www.procurify.com/,medium
+Procurify,http://www.procurify.com,8,Tyson Matheson,,,,,http://www.linkedin.com/company/procurify,name_block,https://www.procurify.com/,medium
+Procurify,http://www.procurify.com,9,Rob Antoniades,,,,,http://www.linkedin.com/company/procurify,name_block,https://www.procurify.com/,medium
+Procurify,http://www.procurify.com,10,Steve Lula,,,,,http://www.linkedin.com/company/procurify,name_block,https://www.procurify.com/,medium
+Foresight Canada,http://www.foresightcac.com,1,Innovation Challenges,,,,,http://www.linkedin.com/company/foresightcac,name_block,https://foresightcac.com/,medium
+Foresight Canada,http://www.foresightcac.com,2,Impact Through Collaboration,,,,,http://www.linkedin.com/company/foresightcac,name_block,https://foresightcac.com/,medium
+Foresight Canada,http://www.foresightcac.com,3,Course Login,,,,,http://www.linkedin.com/company/foresightcac,name_block,https://foresightcac.com/,medium
+Foresight Canada,http://www.foresightcac.com,4,Foresight Venture Studio,founder,C-level/Founder,,,http://www.linkedin.com/company/foresightcac,name_block,https://foresightcac.com/,medium
+Foresight Canada,http://www.foresightcac.com,5,Capital Support,,,,,http://www.linkedin.com/company/foresightcac,name_block,https://foresightcac.com/,medium
+Foresight Canada,http://www.foresightcac.com,6,Media Coverage,,,,,http://www.linkedin.com/company/foresightcac,name_block,https://foresightcac.com/,medium
+Foresight Canada,http://www.foresightcac.com,7,Success Stories,,,,,http://www.linkedin.com/company/foresightcac,name_block,https://foresightcac.com/,medium
+Foresight Canada,http://www.foresightcac.com,8,About Foresight,,,,,http://www.linkedin.com/company/foresightcac,name_block,https://foresightcac.com/,medium
+Foresight Canada,http://www.foresightcac.com,9,Upcoming Events,,,,,http://www.linkedin.com/company/foresightcac,name_block,https://foresightcac.com/,medium
+Foresight Canada,http://www.foresightcac.com,10,Investor Matchmaking,founder,C-level/Founder,,,http://www.linkedin.com/company/foresightcac,name_block,https://foresightcac.com/,medium
+Clearly,http://www.clearly.ca,,,,,,,http://www.linkedin.com/company/clearly,none_found,http://www.clearly.ca,low
+TechioSoft Systems,http://www.techiosoft.com,1,Data Analytics,,,,,http://www.linkedin.com/company/techiosoft,name_block,https://www.techiosoft.com/,medium
+TechioSoft Systems,http://www.techiosoft.com,2,Our Services,,,,,http://www.linkedin.com/company/techiosoft,name_block,https://www.techiosoft.com/,medium
+TechioSoft Systems,http://www.techiosoft.com,3,Cloud Transformation Bootcamp,,,,,http://www.linkedin.com/company/techiosoft,name_block,https://www.techiosoft.com/,medium
+TechioSoft Systems,http://www.techiosoft.com,4,Innovation Roundtables,,,,,http://www.linkedin.com/company/techiosoft,name_block,https://www.techiosoft.com/,medium
+TechioSoft Systems,http://www.techiosoft.com,5,Case Studies,,,,,http://www.linkedin.com/company/techiosoft,name_block,https://www.techiosoft.com/,medium
+TechioSoft Systems,http://www.techiosoft.com,6,Our Partners,Partner,IC/Other,,,http://www.linkedin.com/company/techiosoft,name_block,https://www.techiosoft.com/,medium
+TechioSoft Systems,http://www.techiosoft.com,7,Our Philosophy,,,,,http://www.linkedin.com/company/techiosoft,name_block,https://www.techiosoft.com/,medium
+TechioSoft Systems,http://www.techiosoft.com,8,Our Values,,,,,http://www.linkedin.com/company/techiosoft,name_block,https://www.techiosoft.com/,medium
+TechioSoft Systems,http://www.techiosoft.com,9,Cultivate Belonging Fuel Innovation.,,,,,http://www.linkedin.com/company/techiosoft,name_block,https://www.techiosoft.com/,medium
+Thinkingbox,http://www.thinkingbox.com,1,Adobe Consonant,,,,,http://www.linkedin.com/company/thinkingbox,name_block,https://www.thinkingbox.com/,medium
+Thinkingbox,http://www.thinkingbox.com,2,Cowboys Never Die,,,,,http://www.linkedin.com/company/thinkingbox,name_block,https://www.thinkingbox.com/,medium
+Thinkingbox,http://www.thinkingbox.com,3,Los Angeles,,,,,http://www.linkedin.com/company/thinkingbox,name_block,https://www.thinkingbox.com/,medium
+Thinkingbox,http://www.thinkingbox.com,4,Salt Lake City,,,,,http://www.linkedin.com/company/thinkingbox,name_block,https://www.thinkingbox.com/,medium
+Thinkingbox,http://www.thinkingbox.com,5,Amir Sahba,Founder,C-level/Founder,,,http://www.linkedin.com/company/thinkingbox,name_block,https://www.thinkingbox.com/,medium
+Thinkingbox,http://www.thinkingbox.com,6,Corey Hankey,Chief Operating Officer ,C-level/Founder,,,http://www.linkedin.com/company/thinkingbox,name_block,https://www.thinkingbox.com/,medium
+Thinkingbox,http://www.thinkingbox.com,7,Alyssa Belova,Partner,IC/Other,,,http://www.linkedin.com/company/thinkingbox,name_block,https://www.thinkingbox.com/,medium
+Thinkingbox,http://www.thinkingbox.com,8,Beth Everhart,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/thinkingbox,name_block,https://www.thinkingbox.com/,medium
+Thinkingbox,http://www.thinkingbox.com,9,Peter Maynard,Director,C-level/Founder,Engineering,,http://www.linkedin.com/company/thinkingbox,name_block,https://www.thinkingbox.com/,medium
+Thinkingbox,http://www.thinkingbox.com,10,JM Herrmann,Chief Strategy Officer ,C-level/Founder,,,http://www.linkedin.com/company/thinkingbox,name_block,https://www.thinkingbox.com/,medium
+Asia Pacific Foundation of Canada,http://www.asiapacific.ca,1,Asia Watch,,,,,http://www.linkedin.com/company/apfcanada,name_block,https://www.asiapacific.ca/,medium
+Asia Pacific Foundation of Canada,http://www.asiapacific.ca,2,Featured Podcast,,,,,http://www.linkedin.com/company/apfcanada,name_block,https://www.asiapacific.ca/,medium
+Asia Pacific Foundation of Canada,http://www.asiapacific.ca,3,Featured Publications,,,,,http://www.linkedin.com/company/apfcanada,name_block,https://www.asiapacific.ca/,medium
+Asia Pacific Foundation of Canada,http://www.asiapacific.ca,4,Latest Videos,,,,,http://www.linkedin.com/company/apfcanada,name_block,https://www.asiapacific.ca/,medium
+Annex Consulting Group,,,,,,,,http://www.linkedin.com/company/annex-consulting-group,none_found,,low
+Innovate BC,http://www.innovatebc.ca,1,Innovate BC,,,,,http://www.linkedin.com/company/innovatebc,name_block,https://www.innovatebc.ca/,medium
+Innovate BC,http://www.innovatebc.ca,2,Innovate BC Insider Newsletter,,,,,http://www.linkedin.com/company/innovatebc,name_block,https://www.innovatebc.ca/,medium
+Innovate BC,http://www.innovatebc.ca,3,Our Programs,,,,,http://www.linkedin.com/company/innovatebc,name_block,https://www.innovatebc.ca/,medium
+Innovate BC,http://www.innovatebc.ca,4,Connect With Us,,,,,http://www.linkedin.com/company/innovatebc,name_block,https://www.innovatebc.ca/,medium
+Innovate BC,http://www.innovatebc.ca,5,Our Impact,partner,IC/Other,,,http://www.linkedin.com/company/innovatebc,name_block,https://www.innovatebc.ca/,medium
+roomvu,http://www.roomvu.com,1,Listing Walkthroughs,,,,,http://www.linkedin.com/company/roomvu,name_block,https://www.roomvu.com/,medium
+roomvu,http://www.roomvu.com,2,Voice Cloning,,,,,http://www.linkedin.com/company/roomvu,name_block,https://www.roomvu.com/,medium
+roomvu,http://www.roomvu.com,3,Teams Pricing,,,,,http://www.linkedin.com/company/roomvu,name_block,https://www.roomvu.com/,medium
+roomvu,http://www.roomvu.com,4,AI Listing Walkthroughs,,,,,http://www.linkedin.com/company/roomvu,name_block,https://www.roomvu.com/,medium
+roomvu,http://www.roomvu.com,5,Voice Cloning Videos,,,,,http://www.linkedin.com/company/roomvu,name_block,https://www.roomvu.com/,medium
+roomvu,http://www.roomvu.com,6,Digital Twin Videos,,,,,http://www.linkedin.com/company/roomvu,name_block,https://www.roomvu.com/,medium
+roomvu,http://www.roomvu.com,7,Managed Social Ads,,,,,http://www.linkedin.com/company/roomvu,name_block,https://www.roomvu.com/,medium
+roomvu,http://www.roomvu.com,8,Video Marketing,,,,,http://www.linkedin.com/company/roomvu,name_block,https://www.roomvu.com/,medium
+roomvu,http://www.roomvu.com,9,HYPER LOCAL,,,,,http://www.linkedin.com/company/roomvu,name_block,https://www.roomvu.com/,medium
+roomvu,http://www.roomvu.com,10,Social Media Training,,,,,http://www.linkedin.com/company/roomvu,name_block,https://www.roomvu.com/,medium
+Noise Digital,http://www.noisedigital.com,1,Our Work,,,,,http://www.linkedin.com/company/noise-digital,name_block,https://www.noisedigital.com/,medium
+Noise Digital,http://www.noisedigital.com,2,Noise Vancouver,,,,,http://www.linkedin.com/company/noise-digital,name_block,https://www.noisedigital.com/,medium
+Noise Digital,http://www.noisedigital.com,3,Noise Toronto,,,,,http://www.linkedin.com/company/noise-digital,name_block,https://www.noisedigital.com/,medium
+Noise Digital,http://www.noisedigital.com,4,Noise New York,,,,,http://www.linkedin.com/company/noise-digital,name_block,https://www.noisedigital.com/,medium
+Noise Digital,http://www.noisedigital.com,5,Our Story,partner,IC/Other,,,http://www.linkedin.com/company/noise-digital,name_block,https://www.noisedigital.com/,medium
+Noise Digital,http://www.noisedigital.com,6,Leadership Team,,,,,http://www.linkedin.com/company/noise-digital,name_block,https://www.noisedigital.com/,medium
+Noise Digital,http://www.noisedigital.com,7,Trevor Carr,Founder,C-level/Founder,,,http://www.linkedin.com/company/noise-digital,name_block,https://www.noisedigital.com/,medium
+Noise Digital,http://www.noisedigital.com,8,James Evans,VP,Director/VP,,,http://www.linkedin.com/company/noise-digital,name_block,https://www.noisedigital.com/,medium
+Noise Digital,http://www.noisedigital.com,9,Rich McMullan,VP,Director/VP,,,http://www.linkedin.com/company/noise-digital,name_block,https://www.noisedigital.com/,medium
+Noise Digital,http://www.noisedigital.com,10,Carly Schmidt,VP,Director/VP,,,http://www.linkedin.com/company/noise-digital,name_block,https://www.noisedigital.com/,medium
+"ISCT, International Society for Cell & Gene Therapy",http://www.isctglobal.org,1,Featured Events,,,,,http://www.linkedin.com/company/isctglobal,name_block,https://www.isctglobal.org/home,medium
+"ISCT, International Society for Cell & Gene Therapy",http://www.isctglobal.org,2,Social Media,,,,,http://www.linkedin.com/company/isctglobal,name_block,https://www.isctglobal.org/home,medium
+"ISCT, International Society for Cell & Gene Therapy",http://www.isctglobal.org,3,Page Not Found,,,,,http://www.linkedin.com/company/isctglobal,name_block,https://www.isctglobal.org/home,medium
+"ISCT, International Society for Cell & Gene Therapy",http://www.isctglobal.org,4,About ISCT,,,,,http://www.linkedin.com/company/isctglobal,name_block,https://www.isctglobal.org/home,medium
+"ISCT, International Society for Cell & Gene Therapy",http://www.isctglobal.org,5,About Us,,,,,http://www.linkedin.com/company/isctglobal,name_block,https://www.isctglobal.org/home,medium
+"ISCT, International Society for Cell & Gene Therapy",http://www.isctglobal.org,6,Our Values,,,,,http://www.linkedin.com/company/isctglobal,name_block,https://www.isctglobal.org/home,medium
+"ISCT, International Society for Cell & Gene Therapy",http://www.isctglobal.org,7,Recent News,,,,,http://www.linkedin.com/company/isctglobal,name_block,https://www.isctglobal.org/home,medium
+"ISCT, International Society for Cell & Gene Therapy",http://www.isctglobal.org,8,Executive Management Committee,Chief Executive Officer oversees the operational and management aspects of the Society,C-level/Founder,,,http://www.linkedin.com/company/isctglobal,name_block,https://www.isctglobal.org/home,medium
+"ISCT, International Society for Cell & Gene Therapy",http://www.isctglobal.org,9,Strategic Advisory Council,President,C-level/Founder,,,http://www.linkedin.com/company/isctglobal,name_block,https://www.isctglobal.org/home,medium
+"ISCT, International Society for Cell & Gene Therapy",http://www.isctglobal.org,10,Regional Executive Committees,President,C-level/Founder,,,http://www.linkedin.com/company/isctglobal,name_block,https://www.isctglobal.org/home,medium
+Foran Mining,http://www.foranmining.com,1,McIlvenna Bay Project,,,,,http://www.linkedin.com/company/foran-mining,name_block,https://foranmining.com/,medium
+Foran Mining,http://www.foranmining.com,2,Latest News Releases,,,,,http://www.linkedin.com/company/foran-mining,name_block,https://foranmining.com/,medium
+Foran Mining,http://www.foranmining.com,3,Stay Up-to-date,,,,,http://www.linkedin.com/company/foran-mining,name_block,https://foranmining.com/,medium
+Foran Mining,http://www.foranmining.com,4,Image Gallery,,,,,http://www.linkedin.com/company/foran-mining,name_block,https://foranmining.com/,medium
+Foran Mining,http://www.foranmining.com,5,Investor Information,,,,,http://www.linkedin.com/company/foran-mining,name_block,https://foranmining.com/,medium
+Foran Mining,http://www.foranmining.com,6,Board Committees,,,,,http://www.linkedin.com/company/foran-mining,name_block,https://foranmining.com/,medium
+Blast Radius,,,,,,,,http://www.linkedin.com/company/blast-radius,none_found,,low
+BC Tech,http://www.wearebctech.com,1,BC Tech Newsletter,,,,,http://www.linkedin.com/company/bctech,name_block,https://wearebctech.com/,medium
+BC Tech,http://www.wearebctech.com,2,Learn More,,,,,http://www.linkedin.com/company/bctech,name_block,https://wearebctech.com/,medium
+BC Tech,http://www.wearebctech.com,3,BC Tech Events,,,,,http://www.linkedin.com/company/bctech,name_block,https://wearebctech.com/,medium
+BC Tech,http://www.wearebctech.com,4,Applicant Information,,,,,http://www.linkedin.com/company/bctech,name_block,https://wearebctech.com/,medium
+BC Tech,http://www.wearebctech.com,5,Company Information,,,,,http://www.linkedin.com/company/bctech,name_block,https://wearebctech.com/,medium
+BC Tech,http://www.wearebctech.com,6,Evaluation Criteria,,,,,http://www.linkedin.com/company/bctech,name_block,https://wearebctech.com/,medium
+BC Tech,http://www.wearebctech.com,7,Finalist Filming Representative Information,,,,,http://www.linkedin.com/company/bctech,name_block,https://wearebctech.com/,medium
+Dan Lok®,http://www.danlok.com,,,,,,,http://www.linkedin.com/company/danlok,none_found,http://www.danlok.com,low
+Modalis Infrastructure Partners Inc.,http://www.modalis.ca,1,Beyond Consulting,,,,,http://www.linkedin.com/company/modalis-infrastructure-partners-inc-,name_block,https://www.modalis.ca/,medium
+Modalis Infrastructure Partners Inc.,http://www.modalis.ca,2,Our Business,,,,,http://www.linkedin.com/company/modalis-infrastructure-partners-inc-,name_block,https://www.modalis.ca/,medium
+Modalis Infrastructure Partners Inc.,http://www.modalis.ca,3,Infrastructure Investment,,,,,http://www.linkedin.com/company/modalis-infrastructure-partners-inc-,name_block,https://www.modalis.ca/,medium
+Modalis Infrastructure Partners Inc.,http://www.modalis.ca,4,Advisory Services,,,,,http://www.linkedin.com/company/modalis-infrastructure-partners-inc-,name_block,https://www.modalis.ca/,medium
+Modalis Infrastructure Partners Inc.,http://www.modalis.ca,5,Transaction Management,,,,,http://www.linkedin.com/company/modalis-infrastructure-partners-inc-,name_block,https://www.modalis.ca/,medium
+Modalis Infrastructure Partners Inc.,http://www.modalis.ca,6,Abdulkadir Demirtas,Manager,Manager/Lead,,,http://www.linkedin.com/company/modalis-infrastructure-partners-inc-,name_block,https://www.modalis.ca/,medium
+Modalis Infrastructure Partners Inc.,http://www.modalis.ca,7,Karen Ellis,Chief Customer Experience Officer ,C-level/Founder,,,http://www.linkedin.com/company/modalis-infrastructure-partners-inc-,name_block,https://www.modalis.ca/,medium
+Modalis Infrastructure Partners Inc.,http://www.modalis.ca,8,Oscar Delgado,Manager,Manager/Lead,,,http://www.linkedin.com/company/modalis-infrastructure-partners-inc-,name_block,https://www.modalis.ca/,medium
+Modalis Infrastructure Partners Inc.,http://www.modalis.ca,9,Michael Martin,Vice President,C-level/Founder,,,http://www.linkedin.com/company/modalis-infrastructure-partners-inc-,name_block,https://www.modalis.ca/,medium
+Modalis Infrastructure Partners Inc.,http://www.modalis.ca,10,Athanasios Titonis,Chief Executive Officer ,C-level/Founder,,,http://www.linkedin.com/company/modalis-infrastructure-partners-inc-,name_block,https://www.modalis.ca/,medium
+Spocket,http://www.spocket.co,1,Dropshipping Winning Product,,,,,http://www.linkedin.com/company/spocket-inc,name_block,https://www.spocket.co/,medium
+Spocket,http://www.spocket.co,2,Discover Winning Products,,,,,http://www.linkedin.com/company/spocket-inc,name_block,https://www.spocket.co/,medium
+Spocket,http://www.spocket.co,3,Dropshipping Spy Tool,,,,,http://www.linkedin.com/company/spocket-inc,name_block,https://www.spocket.co/,medium
+Spocket,http://www.spocket.co,4,Product Research Tools,,,,,http://www.linkedin.com/company/spocket-inc,name_block,https://www.spocket.co/,medium
+Spocket,http://www.spocket.co,5,AI-Powered Dropshipping,,,,,http://www.linkedin.com/company/spocket-inc,name_block,https://www.spocket.co/,medium
+Spocket,http://www.spocket.co,6,Automated Dropshipping,,,,,http://www.linkedin.com/company/spocket-inc,name_block,https://www.spocket.co/,medium
+Spocket,http://www.spocket.co,7,No MOQs,,,,,http://www.linkedin.com/company/spocket-inc,name_block,https://www.spocket.co/,medium
+Spocket,http://www.spocket.co,8,Why Dropshippers Love Spocket,,,,,http://www.linkedin.com/company/spocket-inc,name_block,https://www.spocket.co/,medium
+Spocket,http://www.spocket.co,9,Latest Blogs,,,,,http://www.linkedin.com/company/spocket-inc,name_block,https://www.spocket.co/,medium
+Spocket,http://www.spocket.co,10,Frequently Asked Questions,,,,,http://www.linkedin.com/company/spocket-inc,name_block,https://www.spocket.co/,medium
+First Mining Gold Corp.,http://www.firstmininggold.com,1,Springpole Gold Project,,,,,http://www.linkedin.com/company/first-mining-gold-corp,name_block,http://www.firstmininggold.com/,medium
+First Mining Gold Corp.,http://www.firstmininggold.com,2,Duparquet Gold Project,,,,,http://www.linkedin.com/company/first-mining-gold-corp,name_block,http://www.firstmininggold.com/,medium
+First Mining Gold Corp.,http://www.firstmininggold.com,3,CORPORATE GOVERNANCE,,,,,http://www.linkedin.com/company/first-mining-gold-corp,name_block,http://www.firstmininggold.com/,medium
+Riipen,http://www.riipen.com,,,,,,,http://www.linkedin.com/company/riipen-networks-inc,none_found,http://www.riipen.com,low
+e-Visa Immigration Services,http://www.evisaimmigration.com,1,OUR SERVICES,,,,,http://www.linkedin.com/company/e-visaimmigration,name_block,https://www.evisaimmigration.com/en,medium
+e-Visa Immigration Services,http://www.evisaimmigration.com,2,MEET OUR CONSULTANTS,,,,,http://www.linkedin.com/company/e-visaimmigration,name_block,https://www.evisaimmigration.com/en,medium
+e-Visa Immigration Services,http://www.evisaimmigration.com,3,Anne Bergamin,,,,,http://www.linkedin.com/company/e-visaimmigration,name_block,https://www.evisaimmigration.com/en,medium
+e-Visa Immigration Services,http://www.evisaimmigration.com,4,Education Consultant,,,,,http://www.linkedin.com/company/e-visaimmigration,name_block,https://www.evisaimmigration.com/en,medium
+e-Visa Immigration Services,http://www.evisaimmigration.com,5,Eleonora Lisboa,,,,,http://www.linkedin.com/company/e-visaimmigration,name_block,https://www.evisaimmigration.com/en,medium
+e-Visa Immigration Services,http://www.evisaimmigration.com,6,Sales Team Leader,,,,,http://www.linkedin.com/company/e-visaimmigration,name_block,https://www.evisaimmigration.com/en,medium
+e-Visa Immigration Services,http://www.evisaimmigration.com,7,Telma Amorim,,,,,http://www.linkedin.com/company/e-visaimmigration,name_block,https://www.evisaimmigration.com/en,medium
+e-Visa Immigration Services,http://www.evisaimmigration.com,8,Fernanda Zamboni,,,,,http://www.linkedin.com/company/e-visaimmigration,name_block,https://www.evisaimmigration.com/en,medium
+e-Visa Immigration Services,http://www.evisaimmigration.com,9,Career Consultant,,,,,http://www.linkedin.com/company/e-visaimmigration,name_block,https://www.evisaimmigration.com/en,medium
+e-Visa Immigration Services,http://www.evisaimmigration.com,10,Flavia Hirata,,,,,http://www.linkedin.com/company/e-visaimmigration,name_block,https://www.evisaimmigration.com/en,medium
+OnActuate,http://www.onactuate.com,1,Our Services,,,,,http://www.linkedin.com/company/onactuate,name_block,https://www.onactuate.com/,medium
+OnActuate,http://www.onactuate.com,2,MANAGED SERVICES,,,,,http://www.linkedin.com/company/onactuate,name_block,https://www.onactuate.com/,medium
+OnActuate,http://www.onactuate.com,3,AI-Enabled Solutions,,,,,http://www.linkedin.com/company/onactuate,name_block,https://www.onactuate.com/,medium
+OnActuate,http://www.onactuate.com,4,Transparency Platform,,,,,http://www.linkedin.com/company/onactuate,name_block,https://www.onactuate.com/,medium
+OnActuate,http://www.onactuate.com,5,Data Insights,,,,,http://www.linkedin.com/company/onactuate,name_block,https://www.onactuate.com/,medium
+OnActuate,http://www.onactuate.com,6,PUBLIC SECTOR,partner,IC/Other,,,http://www.linkedin.com/company/onactuate,name_block,https://www.onactuate.com/,medium
+OnActuate,http://www.onactuate.com,7,Who We Are,,,,,http://www.linkedin.com/company/onactuate,name_block,https://www.onactuate.com/,medium
+OnActuate,http://www.onactuate.com,8,Our Mission,,,,,http://www.linkedin.com/company/onactuate,name_block,https://www.onactuate.com/,medium
+OnActuate,http://www.onactuate.com,9,Our Story,,,,,http://www.linkedin.com/company/onactuate,name_block,https://www.onactuate.com/,medium
+OnActuate,http://www.onactuate.com,10,Our Leadership,,,,,http://www.linkedin.com/company/onactuate,name_block,https://www.onactuate.com/,medium
+PayByPhone,http://www.paybyphone.com,1,Parking Operators,,,,,http://www.linkedin.com/company/paybyphone-technologies-inc-,name_block,https://www.paybyphone.com/,medium
+The Latest Scoop,http://www.thelatestscoop.ca,1,HEAR FROM OUR CUSTOMERS,,,,,http://www.linkedin.com/company/the-latest-scoop,name_block,https://thelatestscoop.ca/,medium
